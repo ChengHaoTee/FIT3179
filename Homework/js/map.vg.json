@@ -46,23 +46,23 @@
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Homework/Data/new_world_population.csv"
+              "url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Homework/Data/WorldHappiness2019.csv"
             },
-            "key": "Country/Other",
-            "fields": ["Population (2020)"]
+            "key": "Country or region",
+            "fields": ["Score"]
           }
         }
       ],
       "mark": {"type": "geoshape","stroke":"grey"},
       "encoding": {
         "color": {
-          "field": "Population (2020)",
+          "field": "Score",
           "type": "quantitative",
-          "scale": {"type": "threshold","domain":[10000000,50000000,100000000,500000000],"range": ["#fdbe85", "#fd8d3c","#FD6F0A", "#e6550d", "#a63603"]}
+          "scale": {"type": "threshold","domain":[3,4,5,6],"range": ["#fdbe85", "#fd8d3c","#FD6F0A", "#e6550d", "#a63603"]}
         },
         "tooltip": [
-          {"field": "properties.NAME", "type": "nominal", "title": "Country/Other"},
-          {"field": "Population (2020)", "type": "quantitative"}
+          {"field": "properties.NAME", "type": "nominal", "title": "Country or region"},
+          {"field": "Score", "type": "quantitative"}
         ]
       }
     }
