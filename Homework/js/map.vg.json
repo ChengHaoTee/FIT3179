@@ -46,7 +46,7 @@
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Homework/Data/world_population.csv"
+              "url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Homework/Data/new_world_population.csv"
             },
             "key": "Country/Other",
             "fields": ["Population (2020)"]
