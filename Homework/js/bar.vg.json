@@ -6,7 +6,7 @@
   },
   "mark": "bar",
   "encoding": {
-    "x": {"field": "Country.or.region", "type": "nominal", "axis": {"labelAngle": 0}},
-    "y": {"field": "GDP.per.capita", "type": "quantitative"}
+    "x": {"field": "Country or region", "type": "nominal", "axis": {"labelAngle": 0}},
+    "y": {"field": "GDP per capita", "type": "quantitative"}
   }
 }
