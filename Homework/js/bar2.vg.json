@@ -1,0 +1,85 @@
+  {
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title":"Top 10 Countries GDP",
+    "width":800,
+    "data": {"url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Homework/Data/Top10CountryGDP.csv"},
+    "height": {"step": 50},
+    
+    "layer": [{
+        "params": [{
+            "name": "Continent_Selection",
+            "select": {"type": "point", "fields": ["Continent"]},
+            "bind": {"input": "select", "options": [null, "Europe", "Americas", "Asia","Ocenia","Africa"]}
+        }],
+
+      "mark": {"type": "bar", "yOffset": 10, "cornerRadiusEnd": 2, "height": {"band": 0.5}},
+    "encoding": {
+      "y": {
+        "field": "Country or region",
+        "scale": {"padding": 0},
+        "axis": {
+          "bandPosition": 0,
+          "grid": true,
+          "domain": false,
+          "ticks": false,
+          "labelAlign": "left",
+          "labelBaseline": "middle",
+          "labelPadding": -5,
+          "labelOffset": -15,
+          "titleX": 5,
+          "titleY": -5,
+          "titleAngle": 0,
+          "titleAlign": "left"
+        }
+      },
+      "x": {
+        "field": "GDP per capita",
+        "aggregate":"max",
+        "axis": {"grid": false},
+        "title": "GDP per Capita"
+      },
+      "color": {
+        "condition": {
+          "param": "Continent_Selection",
+          "field": "Continent", "type": "nominal"
+        },
+        "value": "grey"
+      },
+
+      "tooltip":[
+        {"field":"Country or region","type":"nominal" },
+        {"field":"GDP per capita","type": "quantitative","format":".2f"}
+      ]
+    }
+    },
+    {
+        "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "middle",
+        "dx": 400,
+        "fontSize": 20,
+        "fontWeight":"bold",
+        "fontStyle": "italic"
+        },
+        "transform": [{
+          "calculate": "datum['Country or region'] + ',' +datum['GDP per capita']","as": "GDP"  
+        },
+      {
+        "calculate": "split(datum.GDP,',')","as": "GDP_split"
+      }
+    ],
+        "encoding": {
+        "text": {"field": "GDP_split", "type": "nominal"},
+        "color": {"value": "red"},
+        "opacity": {
+        "condition": {
+        "test": "datum['Country or region'] == 'Qatar'",
+        "value": 1
+        },
+        "value": 0
+        }
+      }
+    }
+  ]
+  }
