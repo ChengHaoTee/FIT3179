@@ -1,9 +1,33 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Bar Chart with a spacing-saving y-axis",
     "data": {"url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Homework/Data/WorldHappiness2019.csv"},
-    "mark": "point",
+    "height": {"step": 50},
+    "mark": {"type": "bar", "yOffset": 5, "cornerRadiusEnd": 2, "height": {"band": 0.5}},
     "encoding": {
-      "x": {"field": "GDP per capita", "type": "quantitative"}
-
+      "y": {
+        "field": "Continent",
+        "scale": {"padding": 0},
+        "axis": {
+          "bandPosition": 0,
+          "grid": true,
+          "domain": false,
+          "ticks": false,
+          "labelAlign": "left",
+          "labelBaseline": "middle",
+          "labelPadding": -5,
+          "labelOffset": -15,
+          "titleX": 5,
+          "titleY": -5,
+          "titleAngle": 0,
+          "titleAlign": "left"
+        }
+      },
+      "x": {
+        "field": "GDP per capita",
+        "aggregate": "average",
+        "axis": {"grid": false},
+        "title": "GDP per Capita"
+      }
     }
   }
