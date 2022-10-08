@@ -29,6 +29,12 @@
         "aggregate": "average",
         "axis": {"grid": false},
         "title": "GDP per Capita"
-      }
+      },
+
+      "tooltip":[
+        {"field":"Continent","type":"nominal" },
+        {"field":"Country or region","aggregate":"count","type": "quantitative","title":"Number of Country"},
+        {"field":"GDP per capita","aggregate":"average","type": "quantitative","format":".2f"}
+      ]
     }
   }
