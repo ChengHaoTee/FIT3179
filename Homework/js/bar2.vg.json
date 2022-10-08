@@ -7,7 +7,7 @@
     
     "layer": [{
         "params": [{
-            "name": "Continent_Selection",
+            "name": "Selection",
             "select": {"type": "point", "fields": ["Continent"]},
             "bind": {"input": "select", "options": [null, "Europe", "Americas", "Asia","Ocenia","Africa"]}
         }],
@@ -40,7 +40,7 @@
       },
       "color": {
         "condition": {
-          "param": "Continent_Selection",
+          "param": "Selection",
           "field": "Continent", "type": "nominal"
         },
         "value": "grey"
