@@ -1,10 +1,12 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 800,
-    "description": "Bar Chart with a spacing-saving y-axis",
+    "title":"Average GDP per Capita of Continents",
+
     "data": {"url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Homework/Data/WorldHappiness2019.csv"},
     "height": {"step": 50},
-    "mark": {"type": "bar", "yOffset": 5, "cornerRadiusEnd": 2, "height": {"band": 0.5}},
+    "layer": [{
+      "mark": {"type": "bar", "yOffset": 5, "cornerRadiusEnd": 2, "height": {"band": 0.5}},
     "encoding": {
       "y": {
         "field": "Continent",
@@ -37,4 +39,34 @@
         {"field":"GDP per capita","aggregate":"average","type": "quantitative","format":".2f"}
       ]
     }
+    },
+    {
+      "mark": {
+      "type": "text",
+      "align": "right",
+      "baseline": "middle",
+      "dx": -12,
+      "fontSize": 20,
+      "fontStyle": "italic"
+      },
+      "transform": [{
+        "calculate": "datum['Continent'] + ',' +datum['GDP per capita']/datum['Continent']","as": "AverageGDP"  
+      },
+      {
+        "calculate": "split(datum.AverageGDP,',')","as": "GDP_Average"
+      }
+      ],
+      "encoding": {
+      "text": {"field": "GDP_Average", "type": "nominal"},
+      "color": {"value": "black"},
+      "opacity": {
+      "condition": {
+      "test": "datum['Continent'] == 'Ocenia'",
+      "value": 1
+      },
+      "value": 0
+      }
+    }
+  }
+  ]
   }
