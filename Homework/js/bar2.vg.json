@@ -9,7 +9,7 @@
         "params": [{
             "name": "Selection",
             "select": {"type": "point", "fields": ["Continent"]},
-            "bind": {"input": "select", "options": [null, "Europe", "Americas", "Asia","Ocenia","Africa"]}
+            "bind": {"input": "select", "options": [null, "Europe", "Americas", "Asia"]}
         }],
 
       "mark": {"type": "bar", "yOffset": 10, "cornerRadiusEnd": 2, "height": {"band": 0.5}},
@@ -71,7 +71,7 @@
     ],
         "encoding": {
         "text": {"field": "GDP_split", "type": "nominal"},
-        "color": {"value": "red"},
+        "color": {"value": "orange"},
         "opacity": {
         "condition": {
         "test": "datum['Country or region'] == 'Qatar'",
