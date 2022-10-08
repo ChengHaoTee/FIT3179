@@ -1,8 +1,9 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
     "description": "Bar Chart with a spacing-saving y-axis",
     "data": {"url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Homework/Data/WorldHappiness2019.csv"},
-    "height": {"step": 50},
+    "height": {"step": 100},
     "mark": {"type": "bar", "yOffset": 5, "cornerRadiusEnd": 2, "height": {"band": 0.5}},
     "encoding": {
       "y": {
