@@ -30,7 +30,8 @@
           "titleY": -5,
           "titleAngle": 0,
           "titleAlign": "left"
-        }
+        },
+        "sort":{"field":"GDP per capita"}
       },
       "x": {
         "field": "GDP per capita",
@@ -58,6 +59,7 @@
         "align": "right",
         "baseline": "middle",
         "dx": 400,
+        "dy": 200,
         "fontSize": 20,
         "fontWeight":"bold",
         "fontStyle": "italic"
