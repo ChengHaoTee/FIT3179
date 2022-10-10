@@ -8,7 +8,7 @@
       {
         "transform": [
           {"filter": {"field": "Country name", "equal": "Afghanistan"}},
-          {"filter": {"param": "Year"}}
+          {"filter": {"param": "year"}}
         ],
         "mark": {
           "type": "text",
@@ -20,36 +20,17 @@
         "encoding": {"text": {"field": "Year"}}
       },
       {
-        "transform": [
-          {
-            "lookup": "cluster",
-            "from": {
-              "key": "id",
-              "fields": ["name"],
-              "data": {
-                "values": [
-                  {"id": 0, "name": "South Asia"},
-                  {"id": 1, "name": "Europe & Central Asia"},
-                  {"id": 2, "name": "Sub-Saharan Africa"},
-                  {"id": 3, "name": "America"},
-                  {"id": 4, "name": "East Asia & Pacific"},
-                  {"id": 5, "name": "Middle East & North Africa"}
-                ]
-              }
-            }
-          }
-        ],
         "encoding": {
           "x": {
-            "field": "fertility",
+            "field": "Happiness Score",
             "type": "quantitative",
-            "scale": {"domain": [0, 9]},
-            "axis": {"tickCount": 5, "title": "Fertility"}
+            "scale": {"domain": [0, 10]},
+            "axis": {"tickCount": 5, "title": "Happiness Score"}
           },
           "y": {
-            "field": "life_expect",
+            "field": "Healthy life expectancy",
             "type": "quantitative",
-            "scale": {"domain": [20, 85]},
+            "scale": {"domain": [0, 2]},
             "axis": {"tickCount": 5, "title": "Life Expectancy"}
           }
         },
@@ -62,8 +43,8 @@
               "strokeCap": "round"
             },
             "encoding": {
-              "detail": {"field": "country"},
-              "order": {"field": "year"},
+              "detail": {"field": "Country name"},
+              "order": {"field": "Year"},
               "opacity": {
                 "condition": {
                   "test": {"or": [
@@ -80,34 +61,34 @@
             "params": [
               {
                 "name": "year",
-                "value": [{"year": 1955}],
+                "value": [{"year": 2016}],
                 "select": {
                   "type": "point",
-                  "fields": ["year"]
+                  "fields": ["Year"]
                 },
                 "bind": {
                   "name": "Year",
                   "input": "range",
-                  "min": 1955, "max": 2005, "step": 5
+                  "min": 2016, "max": 2020, "step": 1
                 }
               },
               {
                 "name": "hovered",
                 "select": {
                   "type": "point",
-                  "fields": ["country"],
+                  "fields": ["Country name"],
                   "toggle": false,
                   "on": "mouseover"
                 }
               },
               {
                 "name": "clicked",
-                "select": {"type": "point", "fields": ["country"]}
+                "select": {"type": "point", "fields": ["Country name"]}
               }
             ],
             "transform": [{"filter": {"param": "year"}}],
             "mark": {"type": "circle", "size": 100, "opacity": 0.9},
-            "encoding": {"color": {"field": "name", "title": "Region"}}
+            "encoding": {"color": {"field": "Regional indicator", "title": "Region"}}
           },
           {
             "transform": [
@@ -130,8 +111,8 @@
               "fontWeight": "bold"
             },
             "encoding": {
-              "text": {"field": "country"},
-              "color": {"field": "name", "title": "Region"}
+              "text": {"field": "Country name"},
+              "color": {"field": "Regional indicator", "title": "Region"}
             }
           },
           {
@@ -147,7 +128,7 @@
                   "fontSize": 12,
                   "color": "gray"
                 },
-                "encoding": {"text": {"field": "year"}}
+                "encoding": {"text": {"field": "Year"}}
               },
               {"mark": {"type": "circle", "color": "gray"}}
             ]
