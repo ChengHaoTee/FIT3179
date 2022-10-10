@@ -1,0 +1,21 @@
+
+  {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple radial chart with embedded data.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Assignment/Assignment_Data/Top_25_Score.csv"
+  },
+  "layer": [{
+    "mark": {"type": "arc", "innerRadius": 20, "stroke": "#fff"}
+  },{
+    "mark": {"type": "text", "radiusOffset": 10,"tooltip":true},
+    "encoding": {
+      "text": {"field": "Regional indicator", "type": "quantitative","aggregate":"count","title":"Region"}
+    }
+  }],
+  "encoding": {
+    "theta": {"field": "Regional indicator", "type": "quantitative", "aggregate":"count","stack": true},
+    "radius": {"field": "Regional indicator", "aggregate":"count", "scale": {"type": "sqrt", "zero": true, "rangeMin": 20}},
+    "color": {"field": "Regional indicator", "type": "nominal","title":"Region"}
+  }
+}

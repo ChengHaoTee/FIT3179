@@ -9,7 +9,7 @@
         "params": [{
             "name": "Selection",
             "select": {"type": "point", "fields": ["Regional indicator"]},
-            "bind": {"input": "select", "options": [null, "Western Europe", "Americas"]}
+            "bind": {"input": "select", "options": [null, "Western Europe", "North America and ANZ"]}
         }],
 
       "mark": {"type": "bar", "yOffset": 10, "cornerRadiusEnd": 2, "height": {"band": 0.5}},
@@ -58,7 +58,7 @@
         "type": "text",
         "align": "right",
         "baseline": "middle",
-        "dx": 400,
+        "dx": 500,
         "dy": 200,
         "fontSize": 20,
         "fontWeight":"bold",
@@ -73,10 +73,10 @@
     ],
         "encoding": {
         "text": {"field": "Score_split", "type": "nominal"},
-        "color": {"value": "orange"},
+        "color": {"value": "red"},
         "opacity": {
         "condition": {
-        "test": "datum['Country name'] == 'Qatar'",
+        "test": "datum['Country name'] == 'Finland'",
         "value": 1
         },
         "value": 0
