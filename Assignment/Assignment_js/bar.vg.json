@@ -55,6 +55,6 @@
       {"field":"Happiness Score","type": "quantitative","format":".2f"}
     ],
     "color":{"field":"Region","scale":{"domain":["Western Europe","North America and ANZ","Australia and New Zealand"],
-  "range":["skyblue", "orange", "#127153"]}}
+  "range":["skyblue", "orange", "green"]}}
     }
   }
