@@ -26,8 +26,8 @@
       "color": {
         "field": "Country", "type": "nominal",
         "scale": {
-          "domain": ["Switzerland", "Iceland", "Denmark", "Sweden","Norway","Canada","Finland","Netherlands","New Zealand","Australia"],
-          "range": ["black", "blue", "yellow", "green","red","pink","purple","darkblue","gray","orange"]
+          "domain": ["Switzerland", "Iceland", "Denmark","Norway","Canada"],
+          "range": ["black", "blue", "purple", "green","orange"]
         }
       }
     }
