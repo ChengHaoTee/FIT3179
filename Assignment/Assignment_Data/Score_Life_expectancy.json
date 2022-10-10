@@ -1,0 +1,5357 @@
+[
+ {
+   "Country name": "Afghanistan",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 2.566900015,
+   "Healthy life expectancy": 0.266051531,
+   "year": 2020
+ },
+ {
+   "Country name": "Albania",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 4.882699966,
+   "Healthy life expectancy": 0.846329629,
+   "year": 2020
+ },
+ {
+   "Country name": "Algeria",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.005099773,
+   "Healthy life expectancy": 0.745418549,
+   "year": 2020
+ },
+ {
+   "Country name": "Argentina",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.974699974,
+   "Healthy life expectancy": 0.849773705,
+   "year": 2020
+ },
+ {
+   "Country name": "Armenia",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 4.676799774,
+   "Healthy life expectancy": 0.77585727,
+   "year": 2020
+ },
+ {
+   "Country name": "Australia",
+   "Regional indicator": "Australia and New Zealand",
+   "Happiness Score": 7.222799778,
+   "Healthy life expectancy": 1.022607684,
+   "year": 2020
+ },
+ {
+   "Country name": "Austria",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.294199944,
+   "Healthy life expectancy": 1.000933528,
+   "year": 2020
+ },
+ {
+   "Country name": "Azerbaijan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.164800167,
+   "Healthy life expectancy": 0.731134057,
+   "year": 2020
+ },
+ {
+   "Country name": "Bahrain",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.227300167,
+   "Healthy life expectancy": 0.838836372,
+   "year": 2020
+ },
+ {
+   "Country name": "Bangladesh",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 4.832799911,
+   "Healthy life expectancy": 0.694940507,
+   "year": 2020
+ },
+ {
+   "Country name": "Belarus",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.539899826,
+   "Healthy life expectancy": 0.75258857,
+   "year": 2020
+ },
+ {
+   "Country name": "Belgium",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.863500118,
+   "Healthy life expectancy": 0.964901149,
+   "year": 2020
+ },
+ {
+   "Country name": "Benin",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 5.21600008,
+   "Healthy life expectancy": 0.328062952,
+   "year": 2020
+ },
+ {
+   "Country name": "Bolivia",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.747499943,
+   "Healthy life expectancy": 0.662445664,
+   "year": 2020
+ },
+ {
+   "Country name": "Bosnia and Herz.",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.674099922,
+   "Healthy life expectancy": 0.813928187,
+   "year": 2020
+ },
+ {
+   "Country name": "Botswana",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.478899956,
+   "Healthy life expectancy": 0.494101733,
+   "year": 2020
+ },
+ {
+   "Country name": "Brazil",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.375599861,
+   "Healthy life expectancy": 0.766119063,
+   "year": 2020
+ },
+ {
+   "Country name": "Bulgaria",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.101500034,
+   "Healthy life expectancy": 0.777776897,
+   "year": 2020
+ },
+ {
+   "Country name": "Burkina Faso",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.768700123,
+   "Healthy life expectancy": 0.312833875,
+   "year": 2020
+ },
+ {
+   "Country name": "Burundi",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.775300026,
+   "Healthy life expectancy": 0.295212835,
+   "year": 2020
+ },
+ {
+   "Country name": "Cambodia",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 4.848400116,
+   "Healthy life expectancy": 0.587904334,
+   "year": 2020
+ },
+ {
+   "Country name": "Cameroon",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 5.084899902,
+   "Healthy life expectancy": 0.270189553,
+   "year": 2020
+ },
+ {
+   "Country name": "Canada",
+   "Regional indicator": "North America and ANZ",
+   "Happiness Score": 7.23210001,
+   "Healthy life expectancy": 1.022501945,
+   "year": 2020
+ },
+ {
+   "Country name": "Central African Rep.",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.475899935,
+   "Healthy life expectancy": 0,
+   "year": 2020
+ },
+ {
+   "Country name": "Chad",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.422699928,
+   "Healthy life expectancy": 0.1087441,
+   "year": 2020
+ },
+ {
+   "Country name": "Chile",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.228499889,
+   "Healthy life expectancy": 0.889260828,
+   "year": 2020
+ },
+ {
+   "Country name": "China",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.123899937,
+   "Healthy life expectancy": 0.867248535,
+   "year": 2020
+ },
+ {
+   "Country name": "Colombia",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.163400173,
+   "Healthy life expectancy": 0.810020149,
+   "year": 2020
+ },
+ {
+   "Country name": "Comoros",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.288599968,
+   "Healthy life expectancy": 0.437383324,
+   "year": 2020
+ },
+ {
+   "Country name": "Congo",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 5.194399834,
+   "Healthy life expectancy": 0.458101124,
+   "year": 2020
+ },
+ {
+   "Country name": "Costa Rica",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 7.121399879,
+   "Healthy life expectancy": 0.939635336,
+   "year": 2020
+ },
+ {
+   "Country name": "Croatia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.504700184,
+   "Healthy life expectancy": 0.900575578,
+   "year": 2020
+ },
+ {
+   "Country name": "Cyprus",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.15899992,
+   "Healthy life expectancy": 1.026124597,
+   "year": 2020
+ },
+ {
+   "Country name": "Czech Republic",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.910900116,
+   "Healthy life expectancy": 0.89456445,
+   "year": 2020
+ },
+ {
+   "Country name": "Dem. Rep. Congo",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.31099987,
+   "Healthy life expectancy": 0.277212054,
+   "year": 2020
+ },
+ {
+   "Country name": "Denmark",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.645599842,
+   "Healthy life expectancy": 0.979332566,
+   "year": 2020
+ },
+ {
+   "Country name": "Dominican Rep.",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.689199924,
+   "Healthy life expectancy": 0.741901696,
+   "year": 2020
+ },
+ {
+   "Country name": "Ecuador",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.925199986,
+   "Healthy life expectancy": 0.838837743,
+   "year": 2020
+ },
+ {
+   "Country name": "Egypt",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.151400089,
+   "Healthy life expectancy": 0.596911311,
+   "year": 2020
+ },
+ {
+   "Country name": "El Salvador",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.34829998,
+   "Healthy life expectancy": 0.752730012,
+   "year": 2020
+ },
+ {
+   "Country name": "Estonia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.021800041,
+   "Healthy life expectancy": 0.842615008,
+   "year": 2020
+ },
+ {
+   "Country name": "Ethiopia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.186200142,
+   "Healthy life expectancy": 0.483846247,
+   "year": 2020
+ },
+ {
+   "Country name": "Finland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.808700085,
+   "Healthy life expectancy": 0.961271405,
+   "year": 2020
+ },
+ {
+   "Country name": "France",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.663799763,
+   "Healthy life expectancy": 1.029714227,
+   "year": 2020
+ },
+ {
+   "Country name": "Gabon",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.829299927,
+   "Healthy life expectancy": 0.522574842,
+   "year": 2020
+ },
+ {
+   "Country name": "Gambia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.750599861,
+   "Healthy life expectancy": 0.353247881,
+   "year": 2020
+ },
+ {
+   "Country name": "Georgia",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 4.672599792,
+   "Healthy life expectancy": 0.694657624,
+   "year": 2020
+ },
+ {
+   "Country name": "Germany",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.075799942,
+   "Healthy life expectancy": 0.972114801,
+   "year": 2020
+ },
+ {
+   "Country name": "Ghana",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 5.147999763,
+   "Healthy life expectancy": 0.432162255,
+   "year": 2020
+ },
+ {
+   "Country name": "Greece",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.514999866,
+   "Healthy life expectancy": 0.979431748,
+   "year": 2020
+ },
+ {
+   "Country name": "Guatemala",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.398900032,
+   "Healthy life expectancy": 0.705952585,
+   "year": 2020
+ },
+ {
+   "Country name": "Guinea",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.949299812,
+   "Healthy life expectancy": 0.333655238,
+   "year": 2020
+ },
+ {
+   "Country name": "Haiti",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 3.720799923,
+   "Healthy life expectancy": 0.37436673,
+   "year": 2020
+ },
+ {
+   "Country name": "Honduras",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.953199863,
+   "Healthy life expectancy": 0.791989982,
+   "year": 2020
+ },
+ {
+   "Country name": "Hong Kong",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.510399818,
+   "Healthy life expectancy": 1.136630654,
+   "year": 2020
+ },
+ {
+   "Country name": "Hungary",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.000400066,
+   "Healthy life expectancy": 0.806793869,
+   "year": 2020
+ },
+ {
+   "Country name": "Iceland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.504499912,
+   "Healthy life expectancy": 1.000843406,
+   "year": 2020
+ },
+ {
+   "Country name": "India",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 3.573299885,
+   "Healthy life expectancy": 0.54057014,
+   "year": 2020
+ },
+ {
+   "Country name": "Indonesia",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 5.285600185,
+   "Healthy life expectancy": 0.610437036,
+   "year": 2020
+ },
+ {
+   "Country name": "Iran",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.672399998,
+   "Healthy life expectancy": 0.749053836,
+   "year": 2020
+ },
+ {
+   "Country name": "Iraq",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.784800053,
+   "Healthy life expectancy": 0.529350698,
+   "year": 2020
+ },
+ {
+   "Country name": "Ireland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.093699932,
+   "Healthy life expectancy": 0.975670695,
+   "year": 2020
+ },
+ {
+   "Country name": "Israel",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 7.128600121,
+   "Healthy life expectancy": 1.008052945,
+   "year": 2020
+ },
+ {
+   "Country name": "Italy",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.38740015,
+   "Healthy life expectancy": 1.022504926,
+   "year": 2020
+ },
+ {
+   "Country name": "Ivory Coast",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 5.233300209,
+   "Healthy life expectancy": 0.154942513,
+   "year": 2020
+ },
+ {
+   "Country name": "Jamaica",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.889800072,
+   "Healthy life expectancy": 0.788434088,
+   "year": 2020
+ },
+ {
+   "Country name": "Japan",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.870800018,
+   "Healthy life expectancy": 1.072881341,
+   "year": 2020
+ },
+ {
+   "Country name": "Jordan",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.633399963,
+   "Healthy life expectancy": 0.777624726,
+   "year": 2020
+ },
+ {
+   "Country name": "Kazakhstan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 6.057899952,
+   "Healthy life expectancy": 0.698788941,
+   "year": 2020
+ },
+ {
+   "Country name": "Kenya",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.583000183,
+   "Healthy life expectancy": 0.536312759,
+   "year": 2020
+ },
+ {
+   "Country name": "Kosovo",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.325200081,
+   "Healthy life expectancy": 0.672709167,
+   "year": 2020
+ },
+ {
+   "Country name": "Kuwait",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.102099895,
+   "Healthy life expectancy": 0.776468933,
+   "year": 2020
+ },
+ {
+   "Country name": "Kyrgyzstan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.541500092,
+   "Healthy life expectancy": 0.680645883,
+   "year": 2020
+ },
+ {
+   "Country name": "Laos",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 4.888599873,
+   "Healthy life expectancy": 0.486378282,
+   "year": 2020
+ },
+ {
+   "Country name": "Latvia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.949999809,
+   "Healthy life expectancy": 0.777902424,
+   "year": 2020
+ },
+ {
+   "Country name": "Lebanon",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.771500111,
+   "Healthy life expectancy": 0.788671136,
+   "year": 2020
+ },
+ {
+   "Country name": "Lesotho",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.652800083,
+   "Healthy life expectancy": 0.100934811,
+   "year": 2020
+ },
+ {
+   "Country name": "Liberia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.557899952,
+   "Healthy life expectancy": 0.392284274,
+   "year": 2020
+ },
+ {
+   "Country name": "Libya",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.488800049,
+   "Healthy life expectancy": 0.615626633,
+   "year": 2020
+ },
+ {
+   "Country name": "Lithuania",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.215499878,
+   "Healthy life expectancy": 0.795421183,
+   "year": 2020
+ },
+ {
+   "Country name": "Luxembourg",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.237500191,
+   "Healthy life expectancy": 0.986442685,
+   "year": 2020
+ },
+ {
+   "Country name": "Madagascar",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.165599823,
+   "Healthy life expectancy": 0.500617027,
+   "year": 2020
+ },
+ {
+   "Country name": "Malawi",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.538000107,
+   "Healthy life expectancy": 0.446163297,
+   "year": 2020
+ },
+ {
+   "Country name": "Malaysia",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 5.384300232,
+   "Healthy life expectancy": 0.788511872,
+   "year": 2020
+ },
+ {
+   "Country name": "Maldives",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 5.197599888,
+   "Healthy life expectancy": 0.914439559,
+   "year": 2020
+ },
+ {
+   "Country name": "Mali",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.729300022,
+   "Healthy life expectancy": 0.234981522,
+   "year": 2020
+ },
+ {
+   "Country name": "Malta",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.772799969,
+   "Healthy life expectancy": 0.972042024,
+   "year": 2020
+ },
+ {
+   "Country name": "Mauritania",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.374599934,
+   "Healthy life expectancy": 0.425184816,
+   "year": 2020
+ },
+ {
+   "Country name": "Mauritius",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 6.101299763,
+   "Healthy life expectancy": 0.763389409,
+   "year": 2020
+ },
+ {
+   "Country name": "Mexico",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.465000153,
+   "Healthy life expectancy": 0.831601024,
+   "year": 2020
+ },
+ {
+   "Country name": "Moldova",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.607500076,
+   "Healthy life expectancy": 0.713299453,
+   "year": 2020
+ },
+ {
+   "Country name": "Mongolia",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.456200123,
+   "Healthy life expectancy": 0.615788162,
+   "year": 2020
+ },
+ {
+   "Country name": "Montenegro",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.54610014,
+   "Healthy life expectancy": 0.839028895,
+   "year": 2020
+ },
+ {
+   "Country name": "Morocco",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.094799995,
+   "Healthy life expectancy": 0.745096922,
+   "year": 2020
+ },
+ {
+   "Country name": "Mozambique",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.623600006,
+   "Healthy life expectancy": 0.324223638,
+   "year": 2020
+ },
+ {
+   "Country name": "Myanmar",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 4.308000088,
+   "Healthy life expectancy": 0.495443076,
+   "year": 2020
+ },
+ {
+   "Country name": "Namibia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.571100235,
+   "Healthy life expectancy": 0.40687117,
+   "year": 2020
+ },
+ {
+   "Country name": "Nepal",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 5.137199879,
+   "Healthy life expectancy": 0.66887939,
+   "year": 2020
+ },
+ {
+   "Country name": "Netherlands",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.448900223,
+   "Healthy life expectancy": 0.975675344,
+   "year": 2020
+ },
+ {
+   "Country name": "New Zealand",
+   "Regional indicator": "Australia and New Zealand",
+   "Happiness Score": 7.299600124,
+   "Healthy life expectancy": 1.008138299,
+   "year": 2020
+ },
+ {
+   "Country name": "Nicaragua",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.13710022,
+   "Healthy life expectancy": 0.803093255,
+   "year": 2020
+ },
+ {
+   "Country name": "Niger",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.909599781,
+   "Healthy life expectancy": 0.298816353,
+   "year": 2020
+ },
+ {
+   "Country name": "Nigeria",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.724100113,
+   "Healthy life expectancy": 0.167835936,
+   "year": 2020
+ },
+ {
+   "Country name": "North Cyprus",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.53550005,
+   "Healthy life expectancy": 1.026124597,
+   "year": 2020
+ },
+ {
+   "Country name": "North Macedonia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.159800053,
+   "Healthy life expectancy": 0.802994132,
+   "year": 2020
+ },
+ {
+   "Country name": "Norway",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.487999916,
+   "Healthy life expectancy": 1.008071899,
+   "year": 2020
+ },
+ {
+   "Country name": "Pakistan",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 5.69329977,
+   "Healthy life expectancy": 0.469933242,
+   "year": 2020
+ },
+ {
+   "Country name": "Palestinian Territories",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.552800179,
+   "Healthy life expectancy": 0.613826573,
+   "year": 2020
+ },
+ {
+   "Country name": "Panama",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.304800034,
+   "Healthy life expectancy": 0.878546536,
+   "year": 2020
+ },
+ {
+   "Country name": "Paraguay",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.692100048,
+   "Healthy life expectancy": 0.735869646,
+   "year": 2020
+ },
+ {
+   "Country name": "Peru",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.796800137,
+   "Healthy life expectancy": 0.824444175,
+   "year": 2020
+ },
+ {
+   "Country name": "Philippines",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 6.006000042,
+   "Healthy life expectancy": 0.602189481,
+   "year": 2020
+ },
+ {
+   "Country name": "Poland",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.186299801,
+   "Healthy life expectancy": 0.868038476,
+   "year": 2020
+ },
+ {
+   "Country name": "Portugal",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.910900116,
+   "Healthy life expectancy": 0.979315281,
+   "year": 2020
+ },
+ {
+   "Country name": "Romania",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.123700142,
+   "Healthy life expectancy": 0.79229486,
+   "year": 2020
+ },
+ {
+   "Country name": "Russia",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.546000004,
+   "Healthy life expectancy": 0.68044591,
+   "year": 2020
+ },
+ {
+   "Country name": "Rwanda",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.312299967,
+   "Healthy life expectancy": 0.572383285,
+   "year": 2020
+ },
+ {
+   "Country name": "S. Sudan",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 2.816600084,
+   "Healthy life expectancy": 0.208809033,
+   "year": 2020
+ },
+ {
+   "Country name": "Saudi Arabia",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.406499863,
+   "Healthy life expectancy": 0.759818137,
+   "year": 2020
+ },
+ {
+   "Country name": "Senegal",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.980800152,
+   "Healthy life expectancy": 0.518391907,
+   "year": 2020
+ },
+ {
+   "Country name": "Serbia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.77820015,
+   "Healthy life expectancy": 0.828403294,
+   "year": 2020
+ },
+ {
+   "Country name": "Sierra Leone",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.926399946,
+   "Healthy life expectancy": 0.203953966,
+   "year": 2020
+ },
+ {
+   "Country name": "Singapore",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 6.377099991,
+   "Healthy life expectancy": 1.137814283,
+   "year": 2020
+ },
+ {
+   "Country name": "Slovakia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.280600071,
+   "Healthy life expectancy": 0.853465259,
+   "year": 2020
+ },
+ {
+   "Country name": "Slovenia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.363399982,
+   "Healthy life expectancy": 0.932548046,
+   "year": 2020
+ },
+ {
+   "Country name": "South Africa",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.814099789,
+   "Healthy life expectancy": 0.407034069,
+   "year": 2020
+ },
+ {
+   "Country name": "South Korea",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.872399807,
+   "Healthy life expectancy": 1.022542596,
+   "year": 2020
+ },
+ {
+   "Country name": "Spain",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.400899887,
+   "Healthy life expectancy": 1.051343083,
+   "year": 2020
+ },
+ {
+   "Country name": "Sri Lanka",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 4.327000141,
+   "Healthy life expectancy": 0.792036712,
+   "year": 2020
+ },
+ {
+   "Country name": "Swaziland",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.308100224,
+   "Healthy life expectancy": 0.215585828,
+   "year": 2020
+ },
+ {
+   "Country name": "Sweden",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.353499889,
+   "Healthy life expectancy": 0.986470461,
+   "year": 2020
+ },
+ {
+   "Country name": "Switzerland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.559899807,
+   "Healthy life expectancy": 1.040533185,
+   "year": 2020
+ },
+ {
+   "Country name": "Taiwan ",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 6.45539999,
+   "Healthy life expectancy": 0.878437996,
+   "year": 2020
+ },
+ {
+   "Country name": "Tajikistan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.555699825,
+   "Healthy life expectancy": 0.680594802,
+   "year": 2020
+ },
+ {
+   "Country name": "Tanzania",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.476200104,
+   "Healthy life expectancy": 0.442677855,
+   "year": 2020
+ },
+ {
+   "Country name": "Thailand",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 5.998799801,
+   "Healthy life expectancy": 0.793855846,
+   "year": 2020
+ },
+ {
+   "Country name": "Togo",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.187200069,
+   "Healthy life expectancy": 0.342731178,
+   "year": 2020
+ },
+ {
+   "Country name": "Trinidad and Tobago",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.191899776,
+   "Healthy life expectancy": 0.658828557,
+   "year": 2020
+ },
+ {
+   "Country name": "Tunisia",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.392199993,
+   "Healthy life expectancy": 0.781156719,
+   "year": 2020
+ },
+ {
+   "Country name": "Turkey",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.131800175,
+   "Healthy life expectancy": 0.781335294,
+   "year": 2020
+ },
+ {
+   "Country name": "Turkmenistan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.119100094,
+   "Healthy life expectancy": 0.612448037,
+   "year": 2020
+ },
+ {
+   "Country name": "Uganda",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.43200016,
+   "Healthy life expectancy": 0.378311664,
+   "year": 2020
+ },
+ {
+   "Country name": "Ukraine",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 4.56069994,
+   "Healthy life expectancy": 0.698674381,
+   "year": 2020
+ },
+ {
+   "Country name": "United Arab Emirates",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.790800095,
+   "Healthy life expectancy": 0.787814438,
+   "year": 2020
+ },
+ {
+   "Country name": "United Kingdom",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.164500237,
+   "Healthy life expectancy": 0.97570008,
+   "year": 2020
+ },
+ {
+   "Country name": "United States of America",
+   "Regional indicator": "North America and ANZ",
+   "Happiness Score": 6.939599991,
+   "Healthy life expectancy": 0.831618011,
+   "year": 2020
+ },
+ {
+   "Country name": "Uruguay",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.440100193,
+   "Healthy life expectancy": 0.856928885,
+   "year": 2020
+ },
+ {
+   "Country name": "Uzbekistan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 6.257599831,
+   "Healthy life expectancy": 0.716703713,
+   "year": 2020
+ },
+ {
+   "Country name": "Venezuela",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.053199768,
+   "Healthy life expectancy": 0.76702553,
+   "year": 2020
+ },
+ {
+   "Country name": "Vietnam",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 5.353499889,
+   "Healthy life expectancy": 0.819133997,
+   "year": 2020
+ },
+ {
+   "Country name": "Yemen",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 3.527400017,
+   "Healthy life expectancy": 0.41500017,
+   "year": 2020
+ },
+ {
+   "Country name": "Zambia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.759399891,
+   "Healthy life expectancy": 0.36359334,
+   "year": 2020
+ },
+ {
+   "Country name": "Zimbabwe",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.299200058,
+   "Healthy life expectancy": 0.375037611,
+   "year": 2020
+ },
+ {
+   "Country name": "Afghanistan",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 3.203,
+   "Healthy life expectancy": 0.361,
+   "year": 2019
+ },
+ {
+   "Country name": "Albania",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 4.719,
+   "Healthy life expectancy": 0.874,
+   "year": 2019
+ },
+ {
+   "Country name": "Algeria",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.211,
+   "Healthy life expectancy": 0.785,
+   "year": 2019
+ },
+ {
+   "Country name": "Argentina",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.086,
+   "Healthy life expectancy": 0.881,
+   "year": 2019
+ },
+ {
+   "Country name": "Armenia",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 4.559,
+   "Healthy life expectancy": 0.815,
+   "year": 2019
+ },
+ {
+   "Country name": "Australia",
+   "Regional indicator": "Australia and New Zealand",
+   "Happiness Score": 7.228,
+   "Healthy life expectancy": 1.036,
+   "year": 2019
+ },
+ {
+   "Country name": "Austria",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.246,
+   "Healthy life expectancy": 1.016,
+   "year": 2019
+ },
+ {
+   "Country name": "Azerbaijan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.208,
+   "Healthy life expectancy": 0.769,
+   "year": 2019
+ },
+ {
+   "Country name": "Bahrain",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.199,
+   "Healthy life expectancy": 0.871,
+   "year": 2019
+ },
+ {
+   "Country name": "Bangladesh",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 4.456,
+   "Healthy life expectancy": 0.723,
+   "year": 2019
+ },
+ {
+   "Country name": "Belarus",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.323,
+   "Healthy life expectancy": 0.789,
+   "year": 2019
+ },
+ {
+   "Country name": "Belgium",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.923,
+   "Healthy life expectancy": 0.986,
+   "year": 2019
+ },
+ {
+   "Country name": "Benin",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.883,
+   "Healthy life expectancy": 0.397,
+   "year": 2019
+ },
+ {
+   "Country name": "Bolivia",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.779,
+   "Healthy life expectancy": 0.706,
+   "year": 2019
+ },
+ {
+   "Country name": "Bosnia and Herz.",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.386,
+   "Healthy life expectancy": 0.845,
+   "year": 2019
+ },
+ {
+   "Country name": "Botswana",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.488,
+   "Healthy life expectancy": 0.538,
+   "year": 2019
+ },
+ {
+   "Country name": "Brazil",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.3,
+   "Healthy life expectancy": 0.802,
+   "year": 2019
+ },
+ {
+   "Country name": "Bulgaria",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.011,
+   "Healthy life expectancy": 0.815,
+   "year": 2019
+ },
+ {
+   "Country name": "Burkina Faso",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.587,
+   "Healthy life expectancy": 0.38,
+   "year": 2019
+ },
+ {
+   "Country name": "Burundi",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.775,
+   "Healthy life expectancy": 0.38,
+   "year": 2019
+ },
+ {
+   "Country name": "Cambodia",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 4.7,
+   "Healthy life expectancy": 0.637,
+   "year": 2019
+ },
+ {
+   "Country name": "Cameroon",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 5.044,
+   "Healthy life expectancy": 0.331,
+   "year": 2019
+ },
+ {
+   "Country name": "Canada",
+   "Regional indicator": "North America and ANZ",
+   "Happiness Score": 7.278,
+   "Healthy life expectancy": 1.039,
+   "year": 2019
+ },
+ {
+   "Country name": "Central African Rep.",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.083,
+   "Healthy life expectancy": 0.105,
+   "year": 2019
+ },
+ {
+   "Country name": "Chad",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.35,
+   "Healthy life expectancy": 0.192,
+   "year": 2019
+ },
+ {
+   "Country name": "Chile",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.444,
+   "Healthy life expectancy": 0.92,
+   "year": 2019
+ },
+ {
+   "Country name": "China",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.191,
+   "Healthy life expectancy": 0.893,
+   "year": 2019
+ },
+ {
+   "Country name": "Colombia",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.125,
+   "Healthy life expectancy": 0.841,
+   "year": 2019
+ },
+ {
+   "Country name": "Comoros",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.973,
+   "Healthy life expectancy": 0.505,
+   "year": 2019
+ },
+ {
+   "Country name": "Congo",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.812,
+   "Healthy life expectancy": 0.508,
+   "year": 2019
+ },
+ {
+   "Country name": "Costa Rica",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 7.167,
+   "Healthy life expectancy": 0.963,
+   "year": 2019
+ },
+ {
+   "Country name": "Croatia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.432,
+   "Healthy life expectancy": 0.914,
+   "year": 2019
+ },
+ {
+   "Country name": "Cyprus",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.046,
+   "Healthy life expectancy": 1.042,
+   "year": 2019
+ },
+ {
+   "Country name": "Czech Republic",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.852,
+   "Healthy life expectancy": 0.92,
+   "year": 2019
+ },
+ {
+   "Country name": "Dem. Rep. Congo",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.418,
+   "Healthy life expectancy": 0.357,
+   "year": 2019
+ },
+ {
+   "Country name": "Denmark",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.6,
+   "Healthy life expectancy": 0.996,
+   "year": 2019
+ },
+ {
+   "Country name": "Dominican Rep.",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.425,
+   "Healthy life expectancy": 0.779,
+   "year": 2019
+ },
+ {
+   "Country name": "Ecuador",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.028,
+   "Healthy life expectancy": 0.868,
+   "year": 2019
+ },
+ {
+   "Country name": "Egypt",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.166,
+   "Healthy life expectancy": 0.644,
+   "year": 2019
+ },
+ {
+   "Country name": "El Salvador",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.253,
+   "Healthy life expectancy": 0.789,
+   "year": 2019
+ },
+ {
+   "Country name": "Estonia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.893,
+   "Healthy life expectancy": 0.874,
+   "year": 2019
+ },
+ {
+   "Country name": "Ethiopia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.286,
+   "Healthy life expectancy": 0.532,
+   "year": 2019
+ },
+ {
+   "Country name": "Finland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.769,
+   "Healthy life expectancy": 0.986,
+   "year": 2019
+ },
+ {
+   "Country name": "France",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.592,
+   "Healthy life expectancy": 1.045,
+   "year": 2019
+ },
+ {
+   "Country name": "Gabon",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.799,
+   "Healthy life expectancy": 0.571,
+   "year": 2019
+ },
+ {
+   "Country name": "Gambia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.516,
+   "Healthy life expectancy": 0.428,
+   "year": 2019
+ },
+ {
+   "Country name": "Georgia",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 4.519,
+   "Healthy life expectancy": 0.752,
+   "year": 2019
+ },
+ {
+   "Country name": "Germany",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.985,
+   "Healthy life expectancy": 0.987,
+   "year": 2019
+ },
+ {
+   "Country name": "Ghana",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.996,
+   "Healthy life expectancy": 0.486,
+   "year": 2019
+ },
+ {
+   "Country name": "Greece",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.287,
+   "Healthy life expectancy": 0.999,
+   "year": 2019
+ },
+ {
+   "Country name": "Guatemala",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.436,
+   "Healthy life expectancy": 0.746,
+   "year": 2019
+ },
+ {
+   "Country name": "Guinea",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.534,
+   "Healthy life expectancy": 0.375,
+   "year": 2019
+ },
+ {
+   "Country name": "Haiti",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 3.597,
+   "Healthy life expectancy": 0.449,
+   "year": 2019
+ },
+ {
+   "Country name": "Honduras",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.86,
+   "Healthy life expectancy": 0.828,
+   "year": 2019
+ },
+ {
+   "Country name": "Hong Kong",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.43,
+   "Healthy life expectancy": 1.122,
+   "year": 2019
+ },
+ {
+   "Country name": "Hungary",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.758,
+   "Healthy life expectancy": 0.828,
+   "year": 2019
+ },
+ {
+   "Country name": "Iceland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.494,
+   "Healthy life expectancy": 1.026,
+   "year": 2019
+ },
+ {
+   "Country name": "India",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 4.015,
+   "Healthy life expectancy": 0.588,
+   "year": 2019
+ },
+ {
+   "Country name": "Indonesia",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 5.192,
+   "Healthy life expectancy": 0.66,
+   "year": 2019
+ },
+ {
+   "Country name": "Iran",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.548,
+   "Healthy life expectancy": 0.785,
+   "year": 2019
+ },
+ {
+   "Country name": "Iraq",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.437,
+   "Healthy life expectancy": 0.574,
+   "year": 2019
+ },
+ {
+   "Country name": "Ireland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.021,
+   "Healthy life expectancy": 0.999,
+   "year": 2019
+ },
+ {
+   "Country name": "Israel",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 7.139,
+   "Healthy life expectancy": 1.029,
+   "year": 2019
+ },
+ {
+   "Country name": "Italy",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.223,
+   "Healthy life expectancy": 1.039,
+   "year": 2019
+ },
+ {
+   "Country name": "Ivory Coast",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.944,
+   "Healthy life expectancy": 0.232,
+   "year": 2019
+ },
+ {
+   "Country name": "Jamaica",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.89,
+   "Healthy life expectancy": 0.831,
+   "year": 2019
+ },
+ {
+   "Country name": "Japan",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.886,
+   "Healthy life expectancy": 1.088,
+   "year": 2019
+ },
+ {
+   "Country name": "Jordan",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.906,
+   "Healthy life expectancy": 0.815,
+   "year": 2019
+ },
+ {
+   "Country name": "Kazakhstan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.809,
+   "Healthy life expectancy": 0.729,
+   "year": 2019
+ },
+ {
+   "Country name": "Kenya",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.509,
+   "Healthy life expectancy": 0.581,
+   "year": 2019
+ },
+ {
+   "Country name": "Kosovo",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.1,
+   "Healthy life expectancy": 0.758,
+   "year": 2019
+ },
+ {
+   "Country name": "Kuwait",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.021,
+   "Healthy life expectancy": 0.808,
+   "year": 2019
+ },
+ {
+   "Country name": "Kyrgyzstan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.261,
+   "Healthy life expectancy": 0.723,
+   "year": 2019
+ },
+ {
+   "Country name": "Laos",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 4.796,
+   "Healthy life expectancy": 0.551,
+   "year": 2019
+ },
+ {
+   "Country name": "Latvia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.94,
+   "Healthy life expectancy": 0.812,
+   "year": 2019
+ },
+ {
+   "Country name": "Lebanon",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.197,
+   "Healthy life expectancy": 0.815,
+   "year": 2019
+ },
+ {
+   "Country name": "Lesotho",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.802,
+   "Healthy life expectancy": 0.168,
+   "year": 2019
+ },
+ {
+   "Country name": "Liberia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.975,
+   "Healthy life expectancy": 0.443,
+   "year": 2019
+ },
+ {
+   "Country name": "Libya",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.525,
+   "Healthy life expectancy": 0.673,
+   "year": 2019
+ },
+ {
+   "Country name": "Lithuania",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.149,
+   "Healthy life expectancy": 0.818,
+   "year": 2019
+ },
+ {
+   "Country name": "Luxembourg",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.09,
+   "Healthy life expectancy": 1.012,
+   "year": 2019
+ },
+ {
+   "Country name": "Madagascar",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.933,
+   "Healthy life expectancy": 0.555,
+   "year": 2019
+ },
+ {
+   "Country name": "Malawi",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.41,
+   "Healthy life expectancy": 0.495,
+   "year": 2019
+ },
+ {
+   "Country name": "Malaysia",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 5.339,
+   "Healthy life expectancy": 0.828,
+   "year": 2019
+ },
+ {
+   "Country name": "Maldives",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 0,
+   "Healthy life expectancy": 0,
+   "year": 2019
+ },
+ {
+   "Country name": "Mali",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.39,
+   "Healthy life expectancy": 0.308,
+   "year": 2019
+ },
+ {
+   "Country name": "Malta",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.726,
+   "Healthy life expectancy": 0.999,
+   "year": 2019
+ },
+ {
+   "Country name": "Mauritania",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.49,
+   "Healthy life expectancy": 0.489,
+   "year": 2019
+ },
+ {
+   "Country name": "Mauritius",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 5.888,
+   "Healthy life expectancy": 0.798,
+   "year": 2019
+ },
+ {
+   "Country name": "Mexico",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.595,
+   "Healthy life expectancy": 0.861,
+   "year": 2019
+ },
+ {
+   "Country name": "Moldova",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.529,
+   "Healthy life expectancy": 0.739,
+   "year": 2019
+ },
+ {
+   "Country name": "Mongolia",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.285,
+   "Healthy life expectancy": 0.667,
+   "year": 2019
+ },
+ {
+   "Country name": "Montenegro",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.523,
+   "Healthy life expectancy": 0.871,
+   "year": 2019
+ },
+ {
+   "Country name": "Morocco",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.208,
+   "Healthy life expectancy": 0.782,
+   "year": 2019
+ },
+ {
+   "Country name": "Mozambique",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.466,
+   "Healthy life expectancy": 0.39,
+   "year": 2019
+ },
+ {
+   "Country name": "Myanmar",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 4.36,
+   "Healthy life expectancy": 0.555,
+   "year": 2019
+ },
+ {
+   "Country name": "Namibia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.639,
+   "Healthy life expectancy": 0.477,
+   "year": 2019
+ },
+ {
+   "Country name": "Nepal",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 4.913,
+   "Healthy life expectancy": 0.677,
+   "year": 2019
+ },
+ {
+   "Country name": "Netherlands",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.488,
+   "Healthy life expectancy": 0.999,
+   "year": 2019
+ },
+ {
+   "Country name": "New Zealand",
+   "Regional indicator": "Australia and New Zealand",
+   "Happiness Score": 7.307,
+   "Healthy life expectancy": 1.026,
+   "year": 2019
+ },
+ {
+   "Country name": "Nicaragua",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.105,
+   "Healthy life expectancy": 0.835,
+   "year": 2019
+ },
+ {
+   "Country name": "Niger",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.628,
+   "Healthy life expectancy": 0.366,
+   "year": 2019
+ },
+ {
+   "Country name": "Nigeria",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 5.265,
+   "Healthy life expectancy": 0.245,
+   "year": 2019
+ },
+ {
+   "Country name": "North Cyprus",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.718,
+   "Healthy life expectancy": 1.042,
+   "year": 2019
+ },
+ {
+   "Country name": "North Macedonia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.274,
+   "Healthy life expectancy": 0.838,
+   "year": 2019
+ },
+ {
+   "Country name": "Norway",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.554,
+   "Healthy life expectancy": 1.028,
+   "year": 2019
+ },
+ {
+   "Country name": "Pakistan",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 5.653,
+   "Healthy life expectancy": 0.535,
+   "year": 2019
+ },
+ {
+   "Country name": "Palestinian Territories",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.696,
+   "Healthy life expectancy": 0.672,
+   "year": 2019
+ },
+ {
+   "Country name": "Panama",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.321,
+   "Healthy life expectancy": 0.91,
+   "year": 2019
+ },
+ {
+   "Country name": "Paraguay",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.743,
+   "Healthy life expectancy": 0.777,
+   "year": 2019
+ },
+ {
+   "Country name": "Peru",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.697,
+   "Healthy life expectancy": 0.854,
+   "year": 2019
+ },
+ {
+   "Country name": "Philippines",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 5.631,
+   "Healthy life expectancy": 0.657,
+   "year": 2019
+ },
+ {
+   "Country name": "Poland",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.182,
+   "Healthy life expectancy": 0.884,
+   "year": 2019
+ },
+ {
+   "Country name": "Portugal",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.693,
+   "Healthy life expectancy": 0.999,
+   "year": 2019
+ },
+ {
+   "Country name": "Romania",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.07,
+   "Healthy life expectancy": 0.825,
+   "year": 2019
+ },
+ {
+   "Country name": "Russia",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.648,
+   "Healthy life expectancy": 0.726,
+   "year": 2019
+ },
+ {
+   "Country name": "Rwanda",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.334,
+   "Healthy life expectancy": 0.614,
+   "year": 2019
+ },
+ {
+   "Country name": "S. Sudan",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 2.853,
+   "Healthy life expectancy": 0.295,
+   "year": 2019
+ },
+ {
+   "Country name": "Saudi Arabia",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.375,
+   "Healthy life expectancy": 0.795,
+   "year": 2019
+ },
+ {
+   "Country name": "Senegal",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.681,
+   "Healthy life expectancy": 0.571,
+   "year": 2019
+ },
+ {
+   "Country name": "Serbia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.603,
+   "Healthy life expectancy": 0.854,
+   "year": 2019
+ },
+ {
+   "Country name": "Sierra Leone",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.374,
+   "Healthy life expectancy": 0.242,
+   "year": 2019
+ },
+ {
+   "Country name": "Singapore",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 6.262,
+   "Healthy life expectancy": 1.141,
+   "year": 2019
+ },
+ {
+   "Country name": "Slovakia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.198,
+   "Healthy life expectancy": 0.881,
+   "year": 2019
+ },
+ {
+   "Country name": "Slovenia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.118,
+   "Healthy life expectancy": 0.953,
+   "year": 2019
+ },
+ {
+   "Country name": "South Africa",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.722,
+   "Healthy life expectancy": 0.469,
+   "year": 2019
+ },
+ {
+   "Country name": "South Korea",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.895,
+   "Healthy life expectancy": 1.036,
+   "year": 2019
+ },
+ {
+   "Country name": "Spain",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.354,
+   "Healthy life expectancy": 1.062,
+   "year": 2019
+ },
+ {
+   "Country name": "Sri Lanka",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 4.366,
+   "Healthy life expectancy": 0.831,
+   "year": 2019
+ },
+ {
+   "Country name": "Swaziland",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.212,
+   "Healthy life expectancy": 0,
+   "year": 2019
+ },
+ {
+   "Country name": "Sweden",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.343,
+   "Healthy life expectancy": 1.009,
+   "year": 2019
+ },
+ {
+   "Country name": "Switzerland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.48,
+   "Healthy life expectancy": 1.052,
+   "year": 2019
+ },
+ {
+   "Country name": "Taiwan",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 6.446,
+   "Healthy life expectancy": 0.914,
+   "year": 2019
+ },
+ {
+   "Country name": "Tajikistan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.467,
+   "Healthy life expectancy": 0.718,
+   "year": 2019
+ },
+ {
+   "Country name": "Tanzania",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.231,
+   "Healthy life expectancy": 0.499,
+   "year": 2019
+ },
+ {
+   "Country name": "Thailand",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 6.008,
+   "Healthy life expectancy": 0.828,
+   "year": 2019
+ },
+ {
+   "Country name": "Togo",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.085,
+   "Healthy life expectancy": 0.41,
+   "year": 2019
+ },
+ {
+   "Country name": "Trinidad and Tobago",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.192,
+   "Healthy life expectancy": 0.713,
+   "year": 2019
+ },
+ {
+   "Country name": "Tunisia",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.461,
+   "Healthy life expectancy": 0.815,
+   "year": 2019
+ },
+ {
+   "Country name": "Turkey",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.373,
+   "Healthy life expectancy": 0.808,
+   "year": 2019
+ },
+ {
+   "Country name": "Turkmenistan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.247,
+   "Healthy life expectancy": 0.657,
+   "year": 2019
+ },
+ {
+   "Country name": "Uganda",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.189,
+   "Healthy life expectancy": 0.443,
+   "year": 2019
+ },
+ {
+   "Country name": "Ukraine",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 4.332,
+   "Healthy life expectancy": 0.739,
+   "year": 2019
+ },
+ {
+   "Country name": "United Arab Emirates",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.825,
+   "Healthy life expectancy": 0.825,
+   "year": 2019
+ },
+ {
+   "Country name": "United Kingdom",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.054,
+   "Healthy life expectancy": 0.996,
+   "year": 2019
+ },
+ {
+   "Country name": "United States of America",
+   "Regional indicator": "North America and ANZ",
+   "Happiness Score": 6.892,
+   "Healthy life expectancy": 0.874,
+   "year": 2019
+ },
+ {
+   "Country name": "Uruguay",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.293,
+   "Healthy life expectancy": 0.891,
+   "year": 2019
+ },
+ {
+   "Country name": "Uzbekistan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 6.174,
+   "Healthy life expectancy": 0.756,
+   "year": 2019
+ },
+ {
+   "Country name": "Venezuela",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 4.707,
+   "Healthy life expectancy": 0.805,
+   "year": 2019
+ },
+ {
+   "Country name": "Vietnam",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 5.175,
+   "Healthy life expectancy": 0.851,
+   "year": 2019
+ },
+ {
+   "Country name": "Yemen",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 3.38,
+   "Healthy life expectancy": 0.463,
+   "year": 2019
+ },
+ {
+   "Country name": "Zambia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.107,
+   "Healthy life expectancy": 0.426,
+   "year": 2019
+ },
+ {
+   "Country name": "Zimbabwe",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.663,
+   "Healthy life expectancy": 0.433,
+   "year": 2019
+ },
+ {
+   "Country name": "Afghanistan",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 3.632,
+   "Healthy life expectancy": 0.255,
+   "year": 2018
+ },
+ {
+   "Country name": "Albania",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 4.586,
+   "Healthy life expectancy": 0.79,
+   "year": 2018
+ },
+ {
+   "Country name": "Algeria",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.295,
+   "Healthy life expectancy": 0.687,
+   "year": 2018
+ },
+ {
+   "Country name": "Argentina",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.388,
+   "Healthy life expectancy": 0.744,
+   "year": 2018
+ },
+ {
+   "Country name": "Armenia",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 4.321,
+   "Healthy life expectancy": 0.666,
+   "year": 2018
+ },
+ {
+   "Country name": "Australia",
+   "Regional indicator": "Australia and New Zealand",
+   "Happiness Score": 7.272,
+   "Healthy life expectancy": 0.91,
+   "year": 2018
+ },
+ {
+   "Country name": "Austria",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.139,
+   "Healthy life expectancy": 0.891,
+   "year": 2018
+ },
+ {
+   "Country name": "Azerbaijan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.201,
+   "Healthy life expectancy": 0.603,
+   "year": 2018
+ },
+ {
+   "Country name": "Bahrain",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.105,
+   "Healthy life expectancy": 0.698,
+   "year": 2018
+ },
+ {
+   "Country name": "Bangladesh",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 4.5,
+   "Healthy life expectancy": 0.579,
+   "year": 2018
+ },
+ {
+   "Country name": "Belarus",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.483,
+   "Healthy life expectancy": 0.7,
+   "year": 2018
+ },
+ {
+   "Country name": "Belgium",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.927,
+   "Healthy life expectancy": 0.894,
+   "year": 2018
+ },
+ {
+   "Country name": "Benin",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.141,
+   "Healthy life expectancy": 0.24,
+   "year": 2018
+ },
+ {
+   "Country name": "Bolivia",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.752,
+   "Healthy life expectancy": 0.508,
+   "year": 2018
+ },
+ {
+   "Country name": "Bosnia and Herz.",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.129,
+   "Healthy life expectancy": 0.758,
+   "year": 2018
+ },
+ {
+   "Country name": "Botswana",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.59,
+   "Healthy life expectancy": 0.417,
+   "year": 2018
+ },
+ {
+   "Country name": "Brazil",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.419,
+   "Healthy life expectancy": 0.675,
+   "year": 2018
+ },
+ {
+   "Country name": "Bulgaria",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 4.933,
+   "Healthy life expectancy": 0.712,
+   "year": 2018
+ },
+ {
+   "Country name": "Burkina Faso",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.424,
+   "Healthy life expectancy": 0.254,
+   "year": 2018
+ },
+ {
+   "Country name": "Burundi",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 2.905,
+   "Healthy life expectancy": 0.145,
+   "year": 2018
+ },
+ {
+   "Country name": "Cambodia",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 4.433,
+   "Healthy life expectancy": 0.457,
+   "year": 2018
+ },
+ {
+   "Country name": "Cameroon",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.975,
+   "Healthy life expectancy": 0.182,
+   "year": 2018
+ },
+ {
+   "Country name": "Canada",
+   "Regional indicator": "North America and ANZ",
+   "Happiness Score": 7.328,
+   "Healthy life expectancy": 0.896,
+   "year": 2018
+ },
+ {
+   "Country name": "Central African Rep.",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.083,
+   "Healthy life expectancy": 0.01,
+   "year": 2018
+ },
+ {
+   "Country name": "Chad",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.301,
+   "Healthy life expectancy": 0.053,
+   "year": 2018
+ },
+ {
+   "Country name": "Chile",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.476,
+   "Healthy life expectancy": 0.808,
+   "year": 2018
+ },
+ {
+   "Country name": "China",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.246,
+   "Healthy life expectancy": 0.799,
+   "year": 2018
+ },
+ {
+   "Country name": "Colombia",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.26,
+   "Healthy life expectancy": 0.635,
+   "year": 2018
+ },
+ {
+   "Country name": "Comoros",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 0,
+   "Healthy life expectancy": 0,
+   "year": 2018
+ },
+ {
+   "Country name": "Congo",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.559,
+   "Healthy life expectancy": 0.343,
+   "year": 2018
+ },
+ {
+   "Country name": "Costa Rica",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 7.072,
+   "Healthy life expectancy": 0.817,
+   "year": 2018
+ },
+ {
+   "Country name": "Croatia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.321,
+   "Healthy life expectancy": 0.737,
+   "year": 2018
+ },
+ {
+   "Country name": "Cyprus",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.762,
+   "Healthy life expectancy": 0.909,
+   "year": 2018
+ },
+ {
+   "Country name": "Czech Republic",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.711,
+   "Healthy life expectancy": 0.854,
+   "year": 2018
+ },
+ {
+   "Country name": "Dem. Rep. Congo",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.245,
+   "Healthy life expectancy": 0.204,
+   "year": 2018
+ },
+ {
+   "Country name": "Denmark",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.555,
+   "Healthy life expectancy": 0.868,
+   "year": 2018
+ },
+ {
+   "Country name": "Dominican Rep.",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.302,
+   "Healthy life expectancy": 0.614,
+   "year": 2018
+ },
+ {
+   "Country name": "Ecuador",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.973,
+   "Healthy life expectancy": 0.736,
+   "year": 2018
+ },
+ {
+   "Country name": "Egypt",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.419,
+   "Healthy life expectancy": 0.553,
+   "year": 2018
+ },
+ {
+   "Country name": "El Salvador",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.167,
+   "Healthy life expectancy": 0.639,
+   "year": 2018
+ },
+ {
+   "Country name": "Estonia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.739,
+   "Healthy life expectancy": 0.737,
+   "year": 2018
+ },
+ {
+   "Country name": "Ethiopia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.35,
+   "Healthy life expectancy": 0.391,
+   "year": 2018
+ },
+ {
+   "Country name": "Finland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.632,
+   "Healthy life expectancy": 0.874,
+   "year": 2018
+ },
+ {
+   "Country name": "France",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.489,
+   "Healthy life expectancy": 0.908,
+   "year": 2018
+ },
+ {
+   "Country name": "Gabon",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.758,
+   "Healthy life expectancy": 0.404,
+   "year": 2018
+ },
+ {
+   "Country name": "Gambia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 0,
+   "Healthy life expectancy": 0,
+   "year": 2018
+ },
+ {
+   "Country name": "Georgia",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 4.34,
+   "Healthy life expectancy": 0.643,
+   "year": 2018
+ },
+ {
+   "Country name": "Germany",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.965,
+   "Healthy life expectancy": 0.861,
+   "year": 2018
+ },
+ {
+   "Country name": "Ghana",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.657,
+   "Healthy life expectancy": 0.337,
+   "year": 2018
+ },
+ {
+   "Country name": "Greece",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.358,
+   "Healthy life expectancy": 0.879,
+   "year": 2018
+ },
+ {
+   "Country name": "Guatemala",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.382,
+   "Healthy life expectancy": 0.608,
+   "year": 2018
+ },
+ {
+   "Country name": "Guinea",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.964,
+   "Healthy life expectancy": 0.211,
+   "year": 2018
+ },
+ {
+   "Country name": "Haiti",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 3.582,
+   "Healthy life expectancy": 0.289,
+   "year": 2018
+ },
+ {
+   "Country name": "Honduras",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.504,
+   "Healthy life expectancy": 0.622,
+   "year": 2018
+ },
+ {
+   "Country name": "Hong Kong",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.43,
+   "Healthy life expectancy": 1.03,
+   "year": 2018
+ },
+ {
+   "Country name": "Hungary",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.62,
+   "Healthy life expectancy": 0.732,
+   "year": 2018
+ },
+ {
+   "Country name": "Iceland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.495,
+   "Healthy life expectancy": 0.914,
+   "year": 2018
+ },
+ {
+   "Country name": "India",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 4.19,
+   "Healthy life expectancy": 0.485,
+   "year": 2018
+ },
+ {
+   "Country name": "Indonesia",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 5.093,
+   "Healthy life expectancy": 0.522,
+   "year": 2018
+ },
+ {
+   "Country name": "Iran",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.707,
+   "Healthy life expectancy": 0.691,
+   "year": 2018
+ },
+ {
+   "Country name": "Iraq",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.456,
+   "Healthy life expectancy": 0.536,
+   "year": 2018
+ },
+ {
+   "Country name": "Ireland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.977,
+   "Healthy life expectancy": 0.876,
+   "year": 2018
+ },
+ {
+   "Country name": "Israel",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.814,
+   "Healthy life expectancy": 0.883,
+   "year": 2018
+ },
+ {
+   "Country name": "Italy",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6,
+   "Healthy life expectancy": 0.946,
+   "year": 2018
+ },
+ {
+   "Country name": "Ivory Coast",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.671,
+   "Healthy life expectancy": 0.08,
+   "year": 2018
+ },
+ {
+   "Country name": "Jamaica",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.89,
+   "Healthy life expectancy": 0.693,
+   "year": 2018
+ },
+ {
+   "Country name": "Japan",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.915,
+   "Healthy life expectancy": 0.988,
+   "year": 2018
+ },
+ {
+   "Country name": "Jordan",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.161,
+   "Healthy life expectancy": 0.645,
+   "year": 2018
+ },
+ {
+   "Country name": "Kazakhstan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.79,
+   "Healthy life expectancy": 0.631,
+   "year": 2018
+ },
+ {
+   "Country name": "Kenya",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.41,
+   "Healthy life expectancy": 0.454,
+   "year": 2018
+ },
+ {
+   "Country name": "Kosovo",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.662,
+   "Healthy life expectancy": 0.578,
+   "year": 2018
+ },
+ {
+   "Country name": "Kuwait",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.083,
+   "Healthy life expectancy": 0.675,
+   "year": 2018
+ },
+ {
+   "Country name": "Kyrgyzstan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.131,
+   "Healthy life expectancy": 0.594,
+   "year": 2018
+ },
+ {
+   "Country name": "Laos",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 4.623,
+   "Healthy life expectancy": 0.441,
+   "year": 2018
+ },
+ {
+   "Country name": "Latvia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.933,
+   "Healthy life expectancy": 0.671,
+   "year": 2018
+ },
+ {
+   "Country name": "Lebanon",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.358,
+   "Healthy life expectancy": 0.785,
+   "year": 2018
+ },
+ {
+   "Country name": "Lesotho",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.808,
+   "Healthy life expectancy": 0.079,
+   "year": 2018
+ },
+ {
+   "Country name": "Liberia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.495,
+   "Healthy life expectancy": 0.267,
+   "year": 2018
+ },
+ {
+   "Country name": "Libya",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.566,
+   "Healthy life expectancy": 0.553,
+   "year": 2018
+ },
+ {
+   "Country name": "Lithuania",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.952,
+   "Healthy life expectancy": 0.716,
+   "year": 2018
+ },
+ {
+   "Country name": "Luxembourg",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.91,
+   "Healthy life expectancy": 0.896,
+   "year": 2018
+ },
+ {
+   "Country name": "Madagascar",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.774,
+   "Healthy life expectancy": 0.402,
+   "year": 2018
+ },
+ {
+   "Country name": "Malawi",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.587,
+   "Healthy life expectancy": 0.306,
+   "year": 2018
+ },
+ {
+   "Country name": "Malaysia",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 6.322,
+   "Healthy life expectancy": 0.669,
+   "year": 2018
+ },
+ {
+   "Country name": "Maldives",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 0,
+   "Healthy life expectancy": 0,
+   "year": 2018
+ },
+ {
+   "Country name": "Mali",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.447,
+   "Healthy life expectancy": 0.152,
+   "year": 2018
+ },
+ {
+   "Country name": "Malta",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.627,
+   "Healthy life expectancy": 0.884,
+   "year": 2018
+ },
+ {
+   "Country name": "Mauritania",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.356,
+   "Healthy life expectancy": 0.292,
+   "year": 2018
+ },
+ {
+   "Country name": "Mauritius",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 5.891,
+   "Healthy life expectancy": 0.684,
+   "year": 2018
+ },
+ {
+   "Country name": "Mexico",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.488,
+   "Healthy life expectancy": 0.761,
+   "year": 2018
+ },
+ {
+   "Country name": "Moldova",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.64,
+   "Healthy life expectancy": 0.62,
+   "year": 2018
+ },
+ {
+   "Country name": "Mongolia",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.125,
+   "Healthy life expectancy": 0.575,
+   "year": 2018
+ },
+ {
+   "Country name": "Montenegro",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.347,
+   "Healthy life expectancy": 0.729,
+   "year": 2018
+ },
+ {
+   "Country name": "Morocco",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.254,
+   "Healthy life expectancy": 0.669,
+   "year": 2018
+ },
+ {
+   "Country name": "Mozambique",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.417,
+   "Healthy life expectancy": 0.173,
+   "year": 2018
+ },
+ {
+   "Country name": "Myanmar",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 4.308,
+   "Healthy life expectancy": 0.429,
+   "year": 2018
+ },
+ {
+   "Country name": "Namibia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.441,
+   "Healthy life expectancy": 0.365,
+   "year": 2018
+ },
+ {
+   "Country name": "Nepal",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 4.88,
+   "Healthy life expectancy": 0.539,
+   "year": 2018
+ },
+ {
+   "Country name": "Netherlands",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.441,
+   "Healthy life expectancy": 0.878,
+   "year": 2018
+ },
+ {
+   "Country name": "New Zealand",
+   "Regional indicator": "Australia and New Zealand",
+   "Happiness Score": 7.324,
+   "Healthy life expectancy": 0.876,
+   "year": 2018
+ },
+ {
+   "Country name": "Nicaragua",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.141,
+   "Healthy life expectancy": 0.7,
+   "year": 2018
+ },
+ {
+   "Country name": "Niger",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.166,
+   "Healthy life expectancy": 0.221,
+   "year": 2018
+ },
+ {
+   "Country name": "Nigeria",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 5.155,
+   "Healthy life expectancy": 0.048,
+   "year": 2018
+ },
+ {
+   "Country name": "North Cyprus",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.835,
+   "Healthy life expectancy": 0.909,
+   "year": 2018
+ },
+ {
+   "Country name": "North Macedonia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.185,
+   "Healthy life expectancy": 0.691,
+   "year": 2018
+ },
+ {
+   "Country name": "Norway",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.594,
+   "Healthy life expectancy": 0.861,
+   "year": 2018
+ },
+ {
+   "Country name": "Pakistan",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 5.472,
+   "Healthy life expectancy": 0.424,
+   "year": 2018
+ },
+ {
+   "Country name": "Palestinian Territories",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.743,
+   "Healthy life expectancy": 0.602,
+   "year": 2018
+ },
+ {
+   "Country name": "Panama",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.43,
+   "Healthy life expectancy": 0.759,
+   "year": 2018
+ },
+ {
+   "Country name": "Paraguay",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.681,
+   "Healthy life expectancy": 0.615,
+   "year": 2018
+ },
+ {
+   "Country name": "Peru",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.663,
+   "Healthy life expectancy": 0.674,
+   "year": 2018
+ },
+ {
+   "Country name": "Philippines",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 5.524,
+   "Healthy life expectancy": 0.513,
+   "year": 2018
+ },
+ {
+   "Country name": "Poland",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.123,
+   "Healthy life expectancy": 0.781,
+   "year": 2018
+ },
+ {
+   "Country name": "Portugal",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.41,
+   "Healthy life expectancy": 0.884,
+   "year": 2018
+ },
+ {
+   "Country name": "Romania",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.945,
+   "Healthy life expectancy": 0.726,
+   "year": 2018
+ },
+ {
+   "Country name": "Russia",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.81,
+   "Healthy life expectancy": 0.599,
+   "year": 2018
+ },
+ {
+   "Country name": "Rwanda",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.408,
+   "Healthy life expectancy": 0.4,
+   "year": 2018
+ },
+ {
+   "Country name": "S. Sudan",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.254,
+   "Healthy life expectancy": 0.177,
+   "year": 2018
+ },
+ {
+   "Country name": "Saudi Arabia",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.371,
+   "Healthy life expectancy": 0.633,
+   "year": 2018
+ },
+ {
+   "Country name": "Senegal",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.631,
+   "Healthy life expectancy": 0.433,
+   "year": 2018
+ },
+ {
+   "Country name": "Serbia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.398,
+   "Healthy life expectancy": 0.685,
+   "year": 2018
+ },
+ {
+   "Country name": "Sierra Leone",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.571,
+   "Healthy life expectancy": 0,
+   "year": 2018
+ },
+ {
+   "Country name": "Singapore",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 6.343,
+   "Healthy life expectancy": 1.008,
+   "year": 2018
+ },
+ {
+   "Country name": "Slovakia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.173,
+   "Healthy life expectancy": 0.776,
+   "year": 2018
+ },
+ {
+   "Country name": "Slovenia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.948,
+   "Healthy life expectancy": 0.856,
+   "year": 2018
+ },
+ {
+   "Country name": "South Africa",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.724,
+   "Healthy life expectancy": 0.33,
+   "year": 2018
+ },
+ {
+   "Country name": "South Korea",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.875,
+   "Healthy life expectancy": 0.955,
+   "year": 2018
+ },
+ {
+   "Country name": "Spain",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.31,
+   "Healthy life expectancy": 0.965,
+   "year": 2018
+ },
+ {
+   "Country name": "Sri Lanka",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 4.471,
+   "Healthy life expectancy": 0.672,
+   "year": 2018
+ },
+ {
+   "Country name": "Swaziland",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 0,
+   "Healthy life expectancy": 0,
+   "year": 2018
+ },
+ {
+   "Country name": "Sweden",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.314,
+   "Healthy life expectancy": 0.913,
+   "year": 2018
+ },
+ {
+   "Country name": "Switzerland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.487,
+   "Healthy life expectancy": 0.927,
+   "year": 2018
+ },
+ {
+   "Country name": "Taiwan",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 6.441,
+   "Healthy life expectancy": 0.857,
+   "year": 2018
+ },
+ {
+   "Country name": "Tajikistan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.199,
+   "Healthy life expectancy": 0.598,
+   "year": 2018
+ },
+ {
+   "Country name": "Tanzania",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.303,
+   "Healthy life expectancy": 0.381,
+   "year": 2018
+ },
+ {
+   "Country name": "Thailand",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 6.072,
+   "Healthy life expectancy": 0.707,
+   "year": 2018
+ },
+ {
+   "Country name": "Togo",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.999,
+   "Healthy life expectancy": 0.253,
+   "year": 2018
+ },
+ {
+   "Country name": "Trinidad and Tobago",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.192,
+   "Healthy life expectancy": 0.564,
+   "year": 2018
+ },
+ {
+   "Country name": "Tunisia",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.592,
+   "Healthy life expectancy": 0.69,
+   "year": 2018
+ },
+ {
+   "Country name": "Turkey",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.483,
+   "Healthy life expectancy": 0.686,
+   "year": 2018
+ },
+ {
+   "Country name": "Turkmenistan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.636,
+   "Healthy life expectancy": 0.517,
+   "year": 2018
+ },
+ {
+   "Country name": "Uganda",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.161,
+   "Healthy life expectancy": 0.237,
+   "year": 2018
+ },
+ {
+   "Country name": "Ukraine",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 4.103,
+   "Healthy life expectancy": 0.609,
+   "year": 2018
+ },
+ {
+   "Country name": "United Arab Emirates",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.774,
+   "Healthy life expectancy": 0.67,
+   "year": 2018
+ },
+ {
+   "Country name": "United Kingdom",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.19,
+   "Healthy life expectancy": 0.888,
+   "year": 2018
+ },
+ {
+   "Country name": "United States of America",
+   "Regional indicator": "North America and ANZ",
+   "Happiness Score": 6.886,
+   "Healthy life expectancy": 0.819,
+   "year": 2018
+ },
+ {
+   "Country name": "Uruguay",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.379,
+   "Healthy life expectancy": 0.771,
+   "year": 2018
+ },
+ {
+   "Country name": "Uzbekistan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 6.096,
+   "Healthy life expectancy": 0.605,
+   "year": 2018
+ },
+ {
+   "Country name": "Venezuela",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 4.806,
+   "Healthy life expectancy": 0.657,
+   "year": 2018
+ },
+ {
+   "Country name": "Vietnam",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 5.103,
+   "Healthy life expectancy": 0.702,
+   "year": 2018
+ },
+ {
+   "Country name": "Yemen",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 3.355,
+   "Healthy life expectancy": 0.343,
+   "year": 2018
+ },
+ {
+   "Country name": "Zambia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.377,
+   "Healthy life expectancy": 0.295,
+   "year": 2018
+ },
+ {
+   "Country name": "Zimbabwe",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.692,
+   "Healthy life expectancy": 0.248,
+   "year": 2018
+ },
+ {
+   "Country name": "Afghanistan",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 3.79399991,
+   "Healthy life expectancy": 0.180746779,
+   "year": 2017
+ },
+ {
+   "Country name": "Albania",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 4.644000053,
+   "Healthy life expectancy": 0.731159747,
+   "year": 2017
+ },
+ {
+   "Country name": "Algeria",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.872000217,
+   "Healthy life expectancy": 0.617584646,
+   "year": 2017
+ },
+ {
+   "Country name": "Argentina",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.598999977,
+   "Healthy life expectancy": 0.695137084,
+   "year": 2017
+ },
+ {
+   "Country name": "Armenia",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 4.375999928,
+   "Healthy life expectancy": 0.637524426,
+   "year": 2017
+ },
+ {
+   "Country name": "Australia",
+   "Regional indicator": "Australia and New Zealand",
+   "Happiness Score": 7.28399992,
+   "Healthy life expectancy": 0.843886793,
+   "year": 2017
+ },
+ {
+   "Country name": "Austria",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.006000042,
+   "Healthy life expectancy": 0.815328419,
+   "year": 2017
+ },
+ {
+   "Country name": "Azerbaijan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.234000206,
+   "Healthy life expectancy": 0.540775776,
+   "year": 2017
+ },
+ {
+   "Country name": "Bahrain",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.086999893,
+   "Healthy life expectancy": 0.653133035,
+   "year": 2017
+ },
+ {
+   "Country name": "Bangladesh",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 4.607999802,
+   "Healthy life expectancy": 0.533241034,
+   "year": 2017
+ },
+ {
+   "Country name": "Belarus",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.568999767,
+   "Healthy life expectancy": 0.637714267,
+   "year": 2017
+ },
+ {
+   "Country name": "Belgium",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.890999794,
+   "Healthy life expectancy": 0.818091869,
+   "year": 2017
+ },
+ {
+   "Country name": "Benin",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.657000065,
+   "Healthy life expectancy": 0.209930211,
+   "year": 2017
+ },
+ {
+   "Country name": "Bolivia",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.822999954,
+   "Healthy life expectancy": 0.47363025,
+   "year": 2017
+ },
+ {
+   "Country name": "Bosnia and Herz.",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.18200016,
+   "Healthy life expectancy": 0.705186307,
+   "year": 2017
+ },
+ {
+   "Country name": "Botswana",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.766000032,
+   "Healthy life expectancy": 0.341755509,
+   "year": 2017
+ },
+ {
+   "Country name": "Brazil",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.635000229,
+   "Healthy life expectancy": 0.616552353,
+   "year": 2017
+ },
+ {
+   "Country name": "Bulgaria",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 4.714000225,
+   "Healthy life expectancy": 0.70821768,
+   "year": 2017
+ },
+ {
+   "Country name": "Burkina Faso",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.032000065,
+   "Healthy life expectancy": 0.215844259,
+   "year": 2017
+ },
+ {
+   "Country name": "Burundi",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 2.904999971,
+   "Healthy life expectancy": 0.151610792,
+   "year": 2017
+ },
+ {
+   "Country name": "Cambodia",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 4.168000221,
+   "Healthy life expectancy": 0.429783404,
+   "year": 2017
+ },
+ {
+   "Country name": "Cameroon",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.695000172,
+   "Healthy life expectancy": 0.132892117,
+   "year": 2017
+ },
+ {
+   "Country name": "Canada",
+   "Regional indicator": "North America and ANZ",
+   "Happiness Score": 7.315999985,
+   "Healthy life expectancy": 0.834557652,
+   "year": 2017
+ },
+ {
+   "Country name": "Central African Rep.",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 2.693000078,
+   "Healthy life expectancy": 0.018772686,
+   "year": 2017
+ },
+ {
+   "Country name": "Chad",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.936000109,
+   "Healthy life expectancy": 0.041134715,
+   "year": 2017
+ },
+ {
+   "Country name": "Chile",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.65199995,
+   "Healthy life expectancy": 0.819479704,
+   "year": 2017
+ },
+ {
+   "Country name": "China",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.272999763,
+   "Healthy life expectancy": 0.741415501,
+   "year": 2017
+ },
+ {
+   "Country name": "Colombia",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.356999874,
+   "Healthy life expectancy": 0.595027924,
+   "year": 2017
+ },
+ {
+   "Country name": "Comoros",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 0,
+   "Healthy life expectancy": 0,
+   "year": 2017
+ },
+ {
+   "Country name": "Congo ",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.290999889,
+   "Healthy life expectancy": 0.289957434,
+   "year": 2017
+ },
+ {
+   "Country name": "Costa Rica",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 7.078999996,
+   "Healthy life expectancy": 0.759509265,
+   "year": 2017
+ },
+ {
+   "Country name": "Croatia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.293000221,
+   "Healthy life expectancy": 0.701288521,
+   "year": 2017
+ },
+ {
+   "Country name": "Cyprus",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.620999813,
+   "Healthy life expectancy": 0.844714701,
+   "year": 2017
+ },
+ {
+   "Country name": "Czech Republic",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.609000206,
+   "Healthy life expectancy": 0.754444003,
+   "year": 2017
+ },
+ {
+   "Country name": "Dem. Rep. Congo",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.28000021,
+   "Healthy life expectancy": 0.191407025,
+   "year": 2017
+ },
+ {
+   "Country name": "Denmark",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.521999836,
+   "Healthy life expectancy": 0.792565525,
+   "year": 2017
+ },
+ {
+   "Country name": "Dominican Rep.",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.230000019,
+   "Healthy life expectancy": 0.574873745,
+   "year": 2017
+ },
+ {
+   "Country name": "Ecuador",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.007999897,
+   "Healthy life expectancy": 0.685636222,
+   "year": 2017
+ },
+ {
+   "Country name": "Egypt",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.735000134,
+   "Healthy life expectancy": 0.520187259,
+   "year": 2017
+ },
+ {
+   "Country name": "El Salvador",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.002999783,
+   "Healthy life expectancy": 0.596018553,
+   "year": 2017
+ },
+ {
+   "Country name": "Estonia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.611000061,
+   "Healthy life expectancy": 0.695168316,
+   "year": 2017
+ },
+ {
+   "Country name": "Ethiopia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.460000038,
+   "Healthy life expectancy": 0.353409708,
+   "year": 2017
+ },
+ {
+   "Country name": "Finland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.468999863,
+   "Healthy life expectancy": 0.80915767,
+   "year": 2017
+ },
+ {
+   "Country name": "France",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.441999912,
+   "Healthy life expectancy": 0.844465852,
+   "year": 2017
+ },
+ {
+   "Country name": "Gabon",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.465000153,
+   "Healthy life expectancy": 0.356578588,
+   "year": 2017
+ },
+ {
+   "Country name": "Gambia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 0,
+   "Healthy life expectancy": 0,
+   "year": 2017
+ },
+ {
+   "Country name": "Georgia",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 4.285999775,
+   "Healthy life expectancy": 0.649546981,
+   "year": 2017
+ },
+ {
+   "Country name": "Germany",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.951000214,
+   "Healthy life expectancy": 0.798950732,
+   "year": 2017
+ },
+ {
+   "Country name": "Ghana",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.119999886,
+   "Healthy life expectancy": 0.295637727,
+   "year": 2017
+ },
+ {
+   "Country name": "Greece",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.227000237,
+   "Healthy life expectancy": 0.810198903,
+   "year": 2017
+ },
+ {
+   "Country name": "Guatemala",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.453999996,
+   "Healthy life expectancy": 0.54023999,
+   "year": 2017
+ },
+ {
+   "Country name": "Guinea",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.506999969,
+   "Healthy life expectancy": 0.194129139,
+   "year": 2017
+ },
+ {
+   "Country name": "Haiti",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 3.602999926,
+   "Healthy life expectancy": 0.27732113,
+   "year": 2017
+ },
+ {
+   "Country name": "Honduras",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.181000233,
+   "Healthy life expectancy": 0.58256948,
+   "year": 2017
+ },
+ {
+   "Country name": "Hong Kong S.A.R., China",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.472000122,
+   "Healthy life expectancy": 0.943062425,
+   "year": 2017
+ },
+ {
+   "Country name": "Hungary",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.323999882,
+   "Healthy life expectancy": 0.687763453,
+   "year": 2017
+ },
+ {
+   "Country name": "Iceland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.504000187,
+   "Healthy life expectancy": 0.833552122,
+   "year": 2017
+ },
+ {
+   "Country name": "India",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 4.315000057,
+   "Healthy life expectancy": 0.455427617,
+   "year": 2017
+ },
+ {
+   "Country name": "Indonesia",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 5.262000084,
+   "Healthy life expectancy": 0.492345721,
+   "year": 2017
+ },
+ {
+   "Country name": "Iran",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.691999912,
+   "Healthy life expectancy": 0.639333189,
+   "year": 2017
+ },
+ {
+   "Country name": "Iraq",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.497000217,
+   "Healthy life expectancy": 0.50118047,
+   "year": 2017
+ },
+ {
+   "Country name": "Ireland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.977000237,
+   "Healthy life expectancy": 0.809782624,
+   "year": 2017
+ },
+ {
+   "Country name": "Israel",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 7.212999821,
+   "Healthy life expectancy": 0.838404,
+   "year": 2017
+ },
+ {
+   "Country name": "Italy",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.964000225,
+   "Healthy life expectancy": 0.853144348,
+   "year": 2017
+ },
+ {
+   "Country name": "Ivory Coast",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.179999828,
+   "Healthy life expectancy": 0.04864217,
+   "year": 2017
+ },
+ {
+   "Country name": "Jamaica",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.31099987,
+   "Healthy life expectancy": 0.641022384,
+   "year": 2017
+ },
+ {
+   "Country name": "Japan",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.920000076,
+   "Healthy life expectancy": 0.913475871,
+   "year": 2017
+ },
+ {
+   "Country name": "Jordan",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.335999966,
+   "Healthy life expectancy": 0.604590058,
+   "year": 2017
+ },
+ {
+   "Country name": "Kazakhstan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.818999767,
+   "Healthy life expectancy": 0.606041551,
+   "year": 2017
+ },
+ {
+   "Country name": "Kenya",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.552999973,
+   "Healthy life expectancy": 0.30998835,
+   "year": 2017
+ },
+ {
+   "Country name": "Kosovo",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.278999805,
+   "Healthy life expectancy": 0.54145205,
+   "year": 2017
+ },
+ {
+   "Country name": "Kuwait",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.105000019,
+   "Healthy life expectancy": 0.632105708,
+   "year": 2017
+ },
+ {
+   "Country name": "Kyrgyzstan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.004000187,
+   "Healthy life expectancy": 0.553457797,
+   "year": 2017
+ },
+ {
+   "Country name": "Laos",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 0,
+   "Healthy life expectancy": 0,
+   "year": 2017
+ },
+ {
+   "Country name": "Latvia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.849999905,
+   "Healthy life expectancy": 0.638566971,
+   "year": 2017
+ },
+ {
+   "Country name": "Lebanon",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.224999905,
+   "Healthy life expectancy": 0.735081077,
+   "year": 2017
+ },
+ {
+   "Country name": "Lesotho",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.808000088,
+   "Healthy life expectancy": 0,
+   "year": 2017
+ },
+ {
+   "Country name": "Liberia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.532999992,
+   "Healthy life expectancy": 0.229918197,
+   "year": 2017
+ },
+ {
+   "Country name": "Libya",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.525000095,
+   "Healthy life expectancy": 0.52016902,
+   "year": 2017
+ },
+ {
+   "Country name": "Lithuania",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.90199995,
+   "Healthy life expectancy": 0.62894994,
+   "year": 2017
+ },
+ {
+   "Country name": "Luxembourg",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.862999916,
+   "Healthy life expectancy": 0.845089495,
+   "year": 2017
+ },
+ {
+   "Country name": "Madagascar",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.644000053,
+   "Healthy life expectancy": 0.375223309,
+   "year": 2017
+ },
+ {
+   "Country name": "Malawi",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.970000029,
+   "Healthy life expectancy": 0.315089583,
+   "year": 2017
+ },
+ {
+   "Country name": "Malaysia",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 6.084000111,
+   "Healthy life expectancy": 0.618784428,
+   "year": 2017
+ },
+ {
+   "Country name": "Maldives",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 0,
+   "Healthy life expectancy": 0,
+   "year": 2017
+ },
+ {
+   "Country name": "Mali",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.190000057,
+   "Healthy life expectancy": 0.169365674,
+   "year": 2017
+ },
+ {
+   "Country name": "Malta",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.52699995,
+   "Healthy life expectancy": 0.821944237,
+   "year": 2017
+ },
+ {
+   "Country name": "Mauritania",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.291999817,
+   "Healthy life expectancy": 0.28534928,
+   "year": 2017
+ },
+ {
+   "Country name": "Mauritius",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 5.629000187,
+   "Healthy life expectancy": 0.638007462,
+   "year": 2017
+ },
+ {
+   "Country name": "Mexico",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.578000069,
+   "Healthy life expectancy": 0.709978998,
+   "year": 2017
+ },
+ {
+   "Country name": "Moldova",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.837999821,
+   "Healthy life expectancy": 0.589465201,
+   "year": 2017
+ },
+ {
+   "Country name": "Mongolia",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 4.954999924,
+   "Healthy life expectancy": 0.557783484,
+   "year": 2017
+ },
+ {
+   "Country name": "Montenegro",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.236999989,
+   "Healthy life expectancy": 0.667464674,
+   "year": 2017
+ },
+ {
+   "Country name": "Morocco",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.235000134,
+   "Healthy life expectancy": 0.597710669,
+   "year": 2017
+ },
+ {
+   "Country name": "Mozambique",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.550000191,
+   "Healthy life expectancy": 0.106654435,
+   "year": 2017
+ },
+ {
+   "Country name": "Myanmar",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 4.545000076,
+   "Healthy life expectancy": 0.397522569,
+   "year": 2017
+ },
+ {
+   "Country name": "Namibia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.573999882,
+   "Healthy life expectancy": 0.338611811,
+   "year": 2017
+ },
+ {
+   "Country name": "Nepal",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 4.961999893,
+   "Healthy life expectancy": 0.504130781,
+   "year": 2017
+ },
+ {
+   "Country name": "Netherlands",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.376999855,
+   "Healthy life expectancy": 0.810696125,
+   "year": 2017
+ },
+ {
+   "Country name": "New Zealand",
+   "Regional indicator": "Australia and New Zealand",
+   "Happiness Score": 7.31400013,
+   "Healthy life expectancy": 0.816759706,
+   "year": 2017
+ },
+ {
+   "Country name": "Nicaragua",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.071000099,
+   "Healthy life expectancy": 0.653095961,
+   "year": 2017
+ },
+ {
+   "Country name": "Niger",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.027999878,
+   "Healthy life expectancy": 0.268505007,
+   "year": 2017
+ },
+ {
+   "Country name": "Nigeria",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 5.073999882,
+   "Healthy life expectancy": 0.05691573,
+   "year": 2017
+ },
+ {
+   "Country name": "North Cyprus",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.809999943,
+   "Healthy life expectancy": 0.834647238,
+   "year": 2017
+ },
+ {
+   "Country name": "North Macedonia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.175000191,
+   "Healthy life expectancy": 0.644948184,
+   "year": 2017
+ },
+ {
+   "Country name": "Norway",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.537000179,
+   "Healthy life expectancy": 0.796666503,
+   "year": 2017
+ },
+ {
+   "Country name": "Pakistan",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 5.269000053,
+   "Healthy life expectancy": 0.402047783,
+   "year": 2017
+ },
+ {
+   "Country name": "Palestinian Territories",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.775000095,
+   "Healthy life expectancy": 0.565666974,
+   "year": 2017
+ },
+ {
+   "Country name": "Panama",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.452000141,
+   "Healthy life expectancy": 0.706156135,
+   "year": 2017
+ },
+ {
+   "Country name": "Paraguay",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.493000031,
+   "Healthy life expectancy": 0.579250693,
+   "year": 2017
+ },
+ {
+   "Country name": "Peru",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.715000153,
+   "Healthy life expectancy": 0.630166113,
+   "year": 2017
+ },
+ {
+   "Country name": "Philippines",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 5.429999828,
+   "Healthy life expectancy": 0.468009055,
+   "year": 2017
+ },
+ {
+   "Country name": "Poland",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.97300005,
+   "Healthy life expectancy": 0.699475348,
+   "year": 2017
+ },
+ {
+   "Country name": "Portugal",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.195000172,
+   "Healthy life expectancy": 0.795843542,
+   "year": 2017
+ },
+ {
+   "Country name": "Romania",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.824999809,
+   "Healthy life expectancy": 0.685158312,
+   "year": 2017
+ },
+ {
+   "Country name": "Russia",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.962999821,
+   "Healthy life expectancy": 0.547349334,
+   "year": 2017
+ },
+ {
+   "Country name": "Rwanda",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.470999956,
+   "Healthy life expectancy": 0.326424807,
+   "year": 2017
+ },
+ {
+   "Country name": "S. Sudan",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.59100008,
+   "Healthy life expectancy": 0.163486004,
+   "year": 2017
+ },
+ {
+   "Country name": "Saudi Arabia",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.343999863,
+   "Healthy life expectancy": 0.59014833,
+   "year": 2017
+ },
+ {
+   "Country name": "Senegal",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.534999847,
+   "Healthy life expectancy": 0.409362853,
+   "year": 2017
+ },
+ {
+   "Country name": "Serbia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.394999981,
+   "Healthy life expectancy": 0.650784671,
+   "year": 2017
+ },
+ {
+   "Country name": "Sierra Leone",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.709000111,
+   "Healthy life expectancy": 0.005564754,
+   "year": 2017
+ },
+ {
+   "Country name": "Singapore",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 6.572000027,
+   "Healthy life expectancy": 0.949492395,
+   "year": 2017
+ },
+ {
+   "Country name": "Slovakia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.09800005,
+   "Healthy life expectancy": 0.712732911,
+   "year": 2017
+ },
+ {
+   "Country name": "Slovenia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.757999897,
+   "Healthy life expectancy": 0.790828228,
+   "year": 2017
+ },
+ {
+   "Country name": "South Africa",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.828999996,
+   "Healthy life expectancy": 0.18708007,
+   "year": 2017
+ },
+ {
+   "Country name": "South Korea",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.837999821,
+   "Healthy life expectancy": 0.900214076,
+   "year": 2017
+ },
+ {
+   "Country name": "Spain",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.402999878,
+   "Healthy life expectancy": 0.8889606,
+   "year": 2017
+ },
+ {
+   "Country name": "Sri Lanka",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 4.440000057,
+   "Healthy life expectancy": 0.625130832,
+   "year": 2017
+ },
+ {
+   "Country name": "Swaziland",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 0,
+   "Healthy life expectancy": 0,
+   "year": 2017
+ },
+ {
+   "Country name": "Sweden",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.28399992,
+   "Healthy life expectancy": 0.830875158,
+   "year": 2017
+ },
+ {
+   "Country name": "Switzerland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.493999958,
+   "Healthy life expectancy": 0.858131289,
+   "year": 2017
+ },
+ {
+   "Country name": "Taiwan",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 6.421999931,
+   "Healthy life expectancy": 0.793984234,
+   "year": 2017
+ },
+ {
+   "Country name": "Tajikistan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.040999889,
+   "Healthy life expectancy": 0.529235125,
+   "year": 2017
+ },
+ {
+   "Country name": "Tanzania",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.348999977,
+   "Healthy life expectancy": 0.364509284,
+   "year": 2017
+ },
+ {
+   "Country name": "Thailand",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 6.423999786,
+   "Healthy life expectancy": 0.647239029,
+   "year": 2017
+ },
+ {
+   "Country name": "Togo",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.494999886,
+   "Healthy life expectancy": 0.247105569,
+   "year": 2017
+ },
+ {
+   "Country name": "Trinidad and Tobago",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.168000221,
+   "Healthy life expectancy": 0.519983292,
+   "year": 2017
+ },
+ {
+   "Country name": "Tunisia",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.804999828,
+   "Healthy life expectancy": 0.613212049,
+   "year": 2017
+ },
+ {
+   "Country name": "Turkey",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.5,
+   "Healthy life expectancy": 0.637605608,
+   "year": 2017
+ },
+ {
+   "Country name": "Turkmenistan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.822000027,
+   "Healthy life expectancy": 0.43772608,
+   "year": 2017
+ },
+ {
+   "Country name": "Uganda",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.080999851,
+   "Healthy life expectancy": 0.217632607,
+   "year": 2017
+ },
+ {
+   "Country name": "Ukraine",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 4.096000195,
+   "Healthy life expectancy": 0.575903952,
+   "year": 2017
+ },
+ {
+   "Country name": "United Arab Emirates",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.647999763,
+   "Healthy life expectancy": 0.726798236,
+   "year": 2017
+ },
+ {
+   "Country name": "United Kingdom",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.714000225,
+   "Healthy life expectancy": 0.805335939,
+   "year": 2017
+ },
+ {
+   "Country name": "United States of America",
+   "Regional indicator": "North America and ANZ",
+   "Happiness Score": 6.993000031,
+   "Healthy life expectancy": 0.774286628,
+   "year": 2017
+ },
+ {
+   "Country name": "Uruguay",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.453999996,
+   "Healthy life expectancy": 0.719216824,
+   "year": 2017
+ },
+ {
+   "Country name": "Uzbekistan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.971000195,
+   "Healthy life expectancy": 0.498272628,
+   "year": 2017
+ },
+ {
+   "Country name": "Venezuela",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.25,
+   "Healthy life expectancy": 0.617144227,
+   "year": 2017
+ },
+ {
+   "Country name": "Vietnam",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 5.073999882,
+   "Healthy life expectancy": 0.652168989,
+   "year": 2017
+ },
+ {
+   "Country name": "Yemen",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 3.592999935,
+   "Healthy life expectancy": 0.310080916,
+   "year": 2017
+ },
+ {
+   "Country name": "Zambia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.513999939,
+   "Healthy life expectancy": 0.257835895,
+   "year": 2017
+ },
+ {
+   "Country name": "Zimbabwe",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.875,
+   "Healthy life expectancy": 0.196763754,
+   "year": 2017
+ },
+ {
+   "Country name": "Afghanistan",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 3.36,
+   "Healthy life expectancy": 0.17344,
+   "year": 2016
+ },
+ {
+   "Country name": "Albania",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 4.655,
+   "Healthy life expectancy": 0.73007,
+   "year": 2016
+ },
+ {
+   "Country name": "Algeria",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.355,
+   "Healthy life expectancy": 0.61804,
+   "year": 2016
+ },
+ {
+   "Country name": "Argentina",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.65,
+   "Healthy life expectancy": 0.69711,
+   "year": 2016
+ },
+ {
+   "Country name": "Armenia",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 4.36,
+   "Healthy life expectancy": 0.64083,
+   "year": 2016
+ },
+ {
+   "Country name": "Australia",
+   "Regional indicator": "Australia and New Zealand",
+   "Happiness Score": 7.313,
+   "Healthy life expectancy": 0.8512,
+   "year": 2016
+ },
+ {
+   "Country name": "Austria",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.119,
+   "Healthy life expectancy": 0.80565,
+   "year": 2016
+ },
+ {
+   "Country name": "Azerbaijan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.291,
+   "Healthy life expectancy": 0.54504,
+   "year": 2016
+ },
+ {
+   "Country name": "Bahrain",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.218,
+   "Healthy life expectancy": 0.65696,
+   "year": 2016
+ },
+ {
+   "Country name": "Bangladesh",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 4.643,
+   "Healthy life expectancy": 0.52989,
+   "year": 2016
+ },
+ {
+   "Country name": "Belarus",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.802,
+   "Healthy life expectancy": 0.63104,
+   "year": 2016
+ },
+ {
+   "Country name": "Belgium",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.929,
+   "Healthy life expectancy": 0.81959,
+   "year": 2016
+ },
+ {
+   "Country name": "Benin",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.484,
+   "Healthy life expectancy": 0.21028,
+   "year": 2016
+ },
+ {
+   "Country name": "Bolivia",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.822,
+   "Healthy life expectancy": 0.4697,
+   "year": 2016
+ },
+ {
+   "Country name": "Bosnia and Herz.",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.163,
+   "Healthy life expectancy": 0.70766,
+   "year": 2016
+ },
+ {
+   "Country name": "Botswana",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.974,
+   "Healthy life expectancy": 0.34752,
+   "year": 2016
+ },
+ {
+   "Country name": "Brazil",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.952,
+   "Healthy life expectancy": 0.61415,
+   "year": 2016
+ },
+ {
+   "Country name": "Bulgaria",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 4.217,
+   "Healthy life expectancy": 0.67806,
+   "year": 2016
+ },
+ {
+   "Country name": "Burkina Faso",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.739,
+   "Healthy life expectancy": 0.21297,
+   "year": 2016
+ },
+ {
+   "Country name": "Burundi",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 2.905,
+   "Healthy life expectancy": 0.15747,
+   "year": 2016
+ },
+ {
+   "Country name": "Cambodia",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 3.907,
+   "Healthy life expectancy": 0.42494,
+   "year": 2016
+ },
+ {
+   "Country name": "Cameroon",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.513,
+   "Healthy life expectancy": 0.12698,
+   "year": 2016
+ },
+ {
+   "Country name": "Canada",
+   "Regional indicator": "North America and ANZ",
+   "Happiness Score": 7.404,
+   "Healthy life expectancy": 0.8276,
+   "year": 2016
+ },
+ {
+   "Country name": "Central African Rep.",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 0,
+   "Healthy life expectancy": 0,
+   "year": 2016
+ },
+ {
+   "Country name": "Chad",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.763,
+   "Healthy life expectancy": 0.03824,
+   "year": 2016
+ },
+ {
+   "Country name": "Chile",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.705,
+   "Healthy life expectancy": 0.81883,
+   "year": 2016
+ },
+ {
+   "Country name": "China",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.245,
+   "Healthy life expectancy": 0.73561,
+   "year": 2016
+ },
+ {
+   "Country name": "Colombia",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.481,
+   "Healthy life expectancy": 0.59659,
+   "year": 2016
+ },
+ {
+   "Country name": "Comoros",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.956,
+   "Healthy life expectancy": 0.29981,
+   "year": 2016
+ },
+ {
+   "Country name": "Congo",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.236,
+   "Healthy life expectancy": 0.28212,
+   "year": 2016
+ },
+ {
+   "Country name": "Costa Rica",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 7.087,
+   "Healthy life expectancy": 0.76146,
+   "year": 2016
+ },
+ {
+   "Country name": "Croatia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.488,
+   "Healthy life expectancy": 0.70524,
+   "year": 2016
+ },
+ {
+   "Country name": "Cyprus",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.546,
+   "Healthy life expectancy": 0.8488,
+   "year": 2016
+ },
+ {
+   "Country name": "Czech Republic",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.596,
+   "Healthy life expectancy": 0.76376,
+   "year": 2016
+ },
+ {
+   "Country name": "Dem. Rep. Congo",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.272,
+   "Healthy life expectancy": 0.188,
+   "year": 2016
+ },
+ {
+   "Country name": "Denmark",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.526,
+   "Healthy life expectancy": 0.79504,
+   "year": 2016
+ },
+ {
+   "Country name": "Dominican Rep.",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.155,
+   "Healthy life expectancy": 0.57669,
+   "year": 2016
+ },
+ {
+   "Country name": "Ecuador",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.976,
+   "Healthy life expectancy": 0.68613,
+   "year": 2016
+ },
+ {
+   "Country name": "Egypt",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.362,
+   "Healthy life expectancy": 0.52116,
+   "year": 2016
+ },
+ {
+   "Country name": "El Salvador",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.068,
+   "Healthy life expectancy": 0.596,
+   "year": 2016
+ },
+ {
+   "Country name": "Estonia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.517,
+   "Healthy life expectancy": 0.68098,
+   "year": 2016
+ },
+ {
+   "Country name": "Ethiopia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.508,
+   "Healthy life expectancy": 0.34578,
+   "year": 2016
+ },
+ {
+   "Country name": "Finland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.413,
+   "Healthy life expectancy": 0.81091,
+   "year": 2016
+ },
+ {
+   "Country name": "France",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.478,
+   "Healthy life expectancy": 0.83795,
+   "year": 2016
+ },
+ {
+   "Country name": "Gabon",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.121,
+   "Healthy life expectancy": 0.3494,
+   "year": 2016
+ },
+ {
+   "Country name": "Gambia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 0,
+   "Healthy life expectancy": 0,
+   "year": 2016
+ },
+ {
+   "Country name": "Georgia",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 4.252,
+   "Healthy life expectancy": 0.64035,
+   "year": 2016
+ },
+ {
+   "Country name": "Germany",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.994,
+   "Healthy life expectancy": 0.81487,
+   "year": 2016
+ },
+ {
+   "Country name": "Ghana",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.276,
+   "Healthy life expectancy": 0.29681,
+   "year": 2016
+ },
+ {
+   "Country name": "Greece",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.033,
+   "Healthy life expectancy": 0.80029,
+   "year": 2016
+ },
+ {
+   "Country name": "Guatemala",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.324,
+   "Healthy life expectancy": 0.54039,
+   "year": 2016
+ },
+ {
+   "Country name": "Guinea",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.607,
+   "Healthy life expectancy": 0.18829,
+   "year": 2016
+ },
+ {
+   "Country name": "Haiti",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 4.028,
+   "Healthy life expectancy": 0.27494,
+   "year": 2016
+ },
+ {
+   "Country name": "Honduras",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 4.871,
+   "Healthy life expectancy": 0.58383,
+   "year": 2016
+ },
+ {
+   "Country name": "Hong Kong",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.458,
+   "Healthy life expectancy": 0.95277,
+   "year": 2016
+ },
+ {
+   "Country name": "Hungary",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.145,
+   "Healthy life expectancy": 0.67608,
+   "year": 2016
+ },
+ {
+   "Country name": "Iceland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.501,
+   "Healthy life expectancy": 0.86733,
+   "year": 2016
+ },
+ {
+   "Country name": "India",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 4.404,
+   "Healthy life expectancy": 0.45091,
+   "year": 2016
+ },
+ {
+   "Country name": "Indonesia",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 5.314,
+   "Healthy life expectancy": 0.49374,
+   "year": 2016
+ },
+ {
+   "Country name": "Iran",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.813,
+   "Healthy life expectancy": 0.64232,
+   "year": 2016
+ },
+ {
+   "Country name": "Iraq",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.575,
+   "Healthy life expectancy": 0.51076,
+   "year": 2016
+ },
+ {
+   "Country name": "Ireland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.907,
+   "Healthy life expectancy": 0.81455,
+   "year": 2016
+ },
+ {
+   "Country name": "Israel",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 7.267,
+   "Healthy life expectancy": 0.84917,
+   "year": 2016
+ },
+ {
+   "Country name": "Italy",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.977,
+   "Healthy life expectancy": 0.85102,
+   "year": 2016
+ },
+ {
+   "Country name": "Ivory Coast",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.916,
+   "Healthy life expectancy": 0.04476,
+   "year": 2016
+ },
+ {
+   "Country name": "Jamaica",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.51,
+   "Healthy life expectancy": 0.59469,
+   "year": 2016
+ },
+ {
+   "Country name": "Japan",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.921,
+   "Healthy life expectancy": 0.91491,
+   "year": 2016
+ },
+ {
+   "Country name": "Jordan",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.303,
+   "Healthy life expectancy": 0.60712,
+   "year": 2016
+ },
+ {
+   "Country name": "Kazakhstan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.919,
+   "Healthy life expectancy": 0.57386,
+   "year": 2016
+ },
+ {
+   "Country name": "Kenya",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.356,
+   "Healthy life expectancy": 0.30147,
+   "year": 2016
+ },
+ {
+   "Country name": "Kosovo",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.401,
+   "Healthy life expectancy": 0.54,
+   "year": 2016
+ },
+ {
+   "Country name": "Kuwait",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.239,
+   "Healthy life expectancy": 0.63569,
+   "year": 2016
+ },
+ {
+   "Country name": "Kyrgyzstan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.185,
+   "Healthy life expectancy": 0.55449,
+   "year": 2016
+ },
+ {
+   "Country name": "Laos",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 4.876,
+   "Healthy life expectancy": 0.38291,
+   "year": 2016
+ },
+ {
+   "Country name": "Latvia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.56,
+   "Healthy life expectancy": 0.63952,
+   "year": 2016
+ },
+ {
+   "Country name": "Lebanon",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.129,
+   "Healthy life expectancy": 0.76171,
+   "year": 2016
+ },
+ {
+   "Country name": "Lesotho",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.808000088,
+   "Healthy life expectancy": 0,
+   "year": 2016
+ },
+ {
+   "Country name": "Liberia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.622,
+   "Healthy life expectancy": 0.23165,
+   "year": 2016
+ },
+ {
+   "Country name": "Libya",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.615,
+   "Healthy life expectancy": 0.52304,
+   "year": 2016
+ },
+ {
+   "Country name": "Lithuania",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.813,
+   "Healthy life expectancy": 0.64674,
+   "year": 2016
+ },
+ {
+   "Country name": "Luxembourg",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.871,
+   "Healthy life expectancy": 0.84542,
+   "year": 2016
+ },
+ {
+   "Country name": "Madagascar",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.695,
+   "Healthy life expectancy": 0.37109,
+   "year": 2016
+ },
+ {
+   "Country name": "Malawi",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.156,
+   "Healthy life expectancy": 0.29364,
+   "year": 2016
+ },
+ {
+   "Country name": "Malaysia",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 6.005,
+   "Healthy life expectancy": 0.62366,
+   "year": 2016
+ },
+ {
+   "Country name": "Maldives",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 0,
+   "Healthy life expectancy": 0,
+   "year": 2016
+ },
+ {
+   "Country name": "Mali",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.073,
+   "Healthy life expectancy": 0.16347,
+   "year": 2016
+ },
+ {
+   "Country name": "Malta",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.488,
+   "Healthy life expectancy": 0.80315,
+   "year": 2016
+ },
+ {
+   "Country name": "Mauritania",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.201,
+   "Healthy life expectancy": 0.28639,
+   "year": 2016
+ },
+ {
+   "Country name": "Mauritius",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 5.648,
+   "Healthy life expectancy": 0.66189,
+   "year": 2016
+ },
+ {
+   "Country name": "Mexico",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.778,
+   "Healthy life expectancy": 0.71143,
+   "year": 2016
+ },
+ {
+   "Country name": "Moldova",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.897,
+   "Healthy life expectancy": 0.52309,
+   "year": 2016
+ },
+ {
+   "Country name": "Mongolia",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 4.907,
+   "Healthy life expectancy": 0.55469,
+   "year": 2016
+ },
+ {
+   "Country name": "Montenegro",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.161,
+   "Healthy life expectancy": 0.63533,
+   "year": 2016
+ },
+ {
+   "Country name": "Morocco",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.151,
+   "Healthy life expectancy": 0.59471,
+   "year": 2016
+ },
+ {
+   "Country name": "Mozambique",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 0,
+   "Healthy life expectancy": 0,
+   "year": 2016
+ },
+ {
+   "Country name": "Myanmar",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 4.395,
+   "Healthy life expectancy": 0.3988,
+   "year": 2016
+ },
+ {
+   "Country name": "Namibia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.574,
+   "Healthy life expectancy": 0.34745,
+   "year": 2016
+ },
+ {
+   "Country name": "Nepal",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 4.793,
+   "Healthy life expectancy": 0.50073,
+   "year": 2016
+ },
+ {
+   "Country name": "Netherlands",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.339,
+   "Healthy life expectancy": 0.81231,
+   "year": 2016
+ },
+ {
+   "Country name": "New Zealand",
+   "Regional indicator": "Australia and New Zealand",
+   "Happiness Score": 7.334,
+   "Healthy life expectancy": 0.83096,
+   "year": 2016
+ },
+ {
+   "Country name": "Nicaragua",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.992,
+   "Healthy life expectancy": 0.65213,
+   "year": 2016
+ },
+ {
+   "Country name": "Niger",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.856,
+   "Healthy life expectancy": 0.26162,
+   "year": 2016
+ },
+ {
+   "Country name": "Nigeria",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.875,
+   "Healthy life expectancy": 0.05108,
+   "year": 2016
+ },
+ {
+   "Country name": "North Cyprus",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.771,
+   "Healthy life expectancy": 0.84142,
+   "year": 2016
+ },
+ {
+   "Country name": "North Macedonia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.121,
+   "Healthy life expectancy": 0.64738,
+   "year": 2016
+ },
+ {
+   "Country name": "Norway",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.498,
+   "Healthy life expectancy": 0.79579,
+   "year": 2016
+ },
+ {
+   "Country name": "Pakistan",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 5.132,
+   "Healthy life expectancy": 0.40306,
+   "year": 2016
+ },
+ {
+   "Country name": "Palestinian Territories",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 4.754,
+   "Healthy life expectancy": 0.56844,
+   "year": 2016
+ },
+ {
+   "Country name": "Panama",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.701,
+   "Healthy life expectancy": 0.70835,
+   "year": 2016
+ },
+ {
+   "Country name": "Paraguay",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.538,
+   "Healthy life expectancy": 0.58295,
+   "year": 2016
+ },
+ {
+   "Country name": "Peru",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 5.743,
+   "Healthy life expectancy": 0.62994,
+   "year": 2016
+ },
+ {
+   "Country name": "Philippines",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 5.279,
+   "Healthy life expectancy": 0.47036,
+   "year": 2016
+ },
+ {
+   "Country name": "Poland",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.835,
+   "Healthy life expectancy": 0.69058,
+   "year": 2016
+ },
+ {
+   "Country name": "Portugal",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 5.123,
+   "Healthy life expectancy": 0.79363,
+   "year": 2016
+ },
+ {
+   "Country name": "Romania",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.528,
+   "Healthy life expectancy": 0.67602,
+   "year": 2016
+ },
+ {
+   "Country name": "Russia",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.856,
+   "Healthy life expectancy": 0.58991,
+   "year": 2016
+ },
+ {
+   "Country name": "Rwanda",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.515,
+   "Healthy life expectancy": 0.31865,
+   "year": 2016
+ },
+ {
+   "Country name": "S. Sudan",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.832,
+   "Healthy life expectancy": 0.15781,
+   "year": 2016
+ },
+ {
+   "Country name": "Saudi Arabia",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.379,
+   "Healthy life expectancy": 0.59267,
+   "year": 2016
+ },
+ {
+   "Country name": "Senegal",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.219,
+   "Healthy life expectancy": 0.40457,
+   "year": 2016
+ },
+ {
+   "Country name": "Serbia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.177,
+   "Healthy life expectancy": 0.6458,
+   "year": 2016
+ },
+ {
+   "Country name": "Sierra Leone",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.635,
+   "Healthy life expectancy": 0,
+   "year": 2016
+ },
+ {
+   "Country name": "Singapore",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 6.739,
+   "Healthy life expectancy": 0.94719,
+   "year": 2016
+ },
+ {
+   "Country name": "Slovakia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 6.078,
+   "Healthy life expectancy": 0.70367,
+   "year": 2016
+ },
+ {
+   "Country name": "Slovenia",
+   "Regional indicator": "Central and Eastern Europe",
+   "Happiness Score": 5.768,
+   "Healthy life expectancy": 0.79151,
+   "year": 2016
+ },
+ {
+   "Country name": "South Africa",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.459,
+   "Healthy life expectancy": 0.18611,
+   "year": 2016
+ },
+ {
+   "Country name": "South Korea",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 5.835,
+   "Healthy life expectancy": 0.88645,
+   "year": 2016
+ },
+ {
+   "Country name": "Spain",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.361,
+   "Healthy life expectancy": 0.87896,
+   "year": 2016
+ },
+ {
+   "Country name": "Sri Lanka",
+   "Regional indicator": "South Asia",
+   "Happiness Score": 4.415,
+   "Healthy life expectancy": 0.62007,
+   "year": 2016
+ },
+ {
+   "Country name": "Swaziland",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 0,
+   "Healthy life expectancy": 0,
+   "year": 2016
+ },
+ {
+   "Country name": "Sweden",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.291,
+   "Healthy life expectancy": 0.83121,
+   "year": 2016
+ },
+ {
+   "Country name": "Switzerland",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 7.509,
+   "Healthy life expectancy": 0.86303,
+   "year": 2016
+ },
+ {
+   "Country name": "Taiwan",
+   "Regional indicator": "East Asia",
+   "Happiness Score": 6.379,
+   "Healthy life expectancy": 0.79565,
+   "year": 2016
+ },
+ {
+   "Country name": "Tajikistan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 4.996,
+   "Healthy life expectancy": 0.53119,
+   "year": 2016
+ },
+ {
+   "Country name": "Tanzania",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.666,
+   "Healthy life expectancy": 0.357,
+   "year": 2016
+ },
+ {
+   "Country name": "Thailand",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 6.474,
+   "Healthy life expectancy": 0.64915,
+   "year": 2016
+ },
+ {
+   "Country name": "Togo",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.303,
+   "Healthy life expectancy": 0.24811,
+   "year": 2016
+ },
+ {
+   "Country name": "Trinidad and Tobago",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.168,
+   "Healthy life expectancy": 0.52608,
+   "year": 2016
+ },
+ {
+   "Country name": "Tunisia",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.045,
+   "Healthy life expectancy": 0.59577,
+   "year": 2016
+ },
+ {
+   "Country name": "Turkey",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 5.389,
+   "Healthy life expectancy": 0.64718,
+   "year": 2016
+ },
+ {
+   "Country name": "Turkmenistan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.658,
+   "Healthy life expectancy": 0.44006,
+   "year": 2016
+ },
+ {
+   "Country name": "Uganda",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 3.739,
+   "Healthy life expectancy": 0.19625,
+   "year": 2016
+ },
+ {
+   "Country name": "Ukraine",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 4.324,
+   "Healthy life expectancy": 0.58628,
+   "year": 2016
+ },
+ {
+   "Country name": "United Arab Emirates",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 6.573,
+   "Healthy life expectancy": 0.72993,
+   "year": 2016
+ },
+ {
+   "Country name": "United Kingdom",
+   "Regional indicator": "Western Europe",
+   "Happiness Score": 6.725,
+   "Healthy life expectancy": 0.80991,
+   "year": 2016
+ },
+ {
+   "Country name": "United States of America",
+   "Regional indicator": "North America and ANZ",
+   "Happiness Score": 7.104,
+   "Healthy life expectancy": 0.779,
+   "year": 2016
+ },
+ {
+   "Country name": "Uruguay",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.545,
+   "Healthy life expectancy": 0.72183,
+   "year": 2016
+ },
+ {
+   "Country name": "Uzbekistan",
+   "Regional indicator": "Commonwealth of Independent States",
+   "Happiness Score": 5.987,
+   "Healthy life expectancy": 0.50163,
+   "year": 2016
+ },
+ {
+   "Country name": "Venezuela",
+   "Regional indicator": "Latin America and Caribbean",
+   "Happiness Score": 6.084,
+   "Healthy life expectancy": 0.61904,
+   "year": 2016
+ },
+ {
+   "Country name": "Vietnam",
+   "Regional indicator": "Southeast Asia",
+   "Happiness Score": 5.061,
+   "Healthy life expectancy": 0.66157,
+   "year": 2016
+ },
+ {
+   "Country name": "Yemen",
+   "Regional indicator": "Middle East and North Africa",
+   "Happiness Score": 3.724,
+   "Healthy life expectancy": 0.31048,
+   "year": 2016
+ },
+ {
+   "Country name": "Zambia",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.795,
+   "Healthy life expectancy": 0.23573,
+   "year": 2016
+ },
+ {
+   "Country name": "Zimbabwe",
+   "Regional indicator": "Sub-Saharan Africa",
+   "Happiness Score": 4.193,
+   "Healthy life expectancy": 0.1595,
+   "year": 2016
+ }
+]

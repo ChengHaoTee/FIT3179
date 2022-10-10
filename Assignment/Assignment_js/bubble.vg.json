@@ -7,6 +7,7 @@
     "layer": [
       {
         "transform": [
+          {"filter":{"field": "Country name", "equal":"Country name"}},
           {"filter": {"param": "year"}}
         ],
         "mark": {
@@ -127,7 +128,7 @@
                   "fontSize": 12,
                   "color": "gray"
                 },
-                "encoding": {"text": {"field": "Year"}}
+                "encoding": {"text": {"field": "year"}}
               },
               {"mark": {"type": "circle", "color": "gray"}}
             ]
