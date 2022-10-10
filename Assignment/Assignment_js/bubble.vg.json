@@ -7,7 +7,6 @@
     "layer": [
       {
         "transform": [
-          {"filter": {"field": "Country name", "equal": "Afghanistan"}},
           {"filter": {"param": "year"}}
         ],
         "mark": {
@@ -17,7 +16,7 @@
           "y": 250,
           "opacity": 0.06
         },
-        "encoding": {"text": {"field": "Year"}}
+        "encoding": {"text": {"field": "year"}}
       },
       {
         "encoding": {
@@ -44,7 +43,7 @@
             },
             "encoding": {
               "detail": {"field": "Country name"},
-              "order": {"field": "Year"},
+              "order": {"field": "year"},
               "opacity": {
                 "condition": {
                   "test": {"or": [
@@ -64,10 +63,10 @@
                 "value": [{"year": 2016}],
                 "select": {
                   "type": "point",
-                  "fields": ["Year"]
+                  "fields": ["year"]
                 },
                 "bind": {
-                  "name": "Year",
+                  "name": "year",
                   "input": "range",
                   "min": 2016, "max": 2020, "step": 1
                 }
