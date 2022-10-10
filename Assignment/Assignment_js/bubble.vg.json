@@ -1,14 +1,14 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "An interactive scatter plot of global health statistics by country and year.",
-    "data": {"url": "data/gapminder.json"},
+    "data": {"url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Assignment/Assignment_Data/Score_Life_Expectancy.csv"},
     "width": 800,
     "height": 500,
     "layer": [
       {
         "transform": [
-          {"filter": {"field": "country", "equal": "Afghanistan"}},
-          {"filter": {"param": "year"}}
+          {"filter": {"field": "Country name", "equal": "Afghanistan"}},
+          {"filter": {"param": "Year"}}
         ],
         "mark": {
           "type": "text",
@@ -17,7 +17,7 @@
           "y": 250,
           "opacity": 0.06
         },
-        "encoding": {"text": {"field": "year"}}
+        "encoding": {"text": {"field": "Year"}}
       },
       {
         "transform": [
