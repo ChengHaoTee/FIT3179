@@ -2,6 +2,8 @@
   {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "A simple radial chart with embedded data.",
+  "width":"container",
+  "height":350,
   "data": {
     "url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Assignment/Assignment_Data/Top_25_Score.csv"
   },

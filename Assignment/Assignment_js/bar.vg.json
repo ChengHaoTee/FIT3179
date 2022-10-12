@@ -1,18 +1,14 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title":"Top 10 Countries Score",
-  "width":800,
+  "width":"container",
   "data": {"url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Assignment/Assignment_Data/Anual_Score.csv"},
-  "height": {"step": 50},
+  "height": {"step": 45},
   "params": [
     {
     "name": "Selection",
     "value": 2016,
     "bind": {"input": "range","min": 2016,"max": 2020,"step": 1,"name": "Year: "}
-    },
-    {
-      "name": "brush",
-      "select": {"type": "interval", "encodings": ["x"]}
     }
     ],
     "transform": [{"filter":"datum.Year == Selection"}],
@@ -39,17 +35,12 @@
     },
     "x": {
       "field": "Happiness Score",
-      "aggregate":"max",
+      "aggregate":"mean",
+
       "axis": {"grid": false},
       "title": "Happiness Score"
     },
-    "opacity": {
-      "condition": {
-        "param": "brush", "value": 1
-      },
-      "value": 0.7
-    }
-   ,
+
     "tooltip":[
       {"field":"Country","type":"nominal" },
       {"field":"Happiness Score","type": "quantitative","format":".2f"}

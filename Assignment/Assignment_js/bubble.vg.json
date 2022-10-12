@@ -1,31 +1,46 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title":"Top 10 Countries Score",
-    "width":800,
-    "data":{"url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Assignment/Assignment_Data/Score_Life_Freedom.csv"},
-    "hconcat": [{
-        "selection": {
-          "brush": {"type": "interval"}
-        },
-        "mark": "point",
-        "encoding": {
-          "x": {"field": "Ladder score","type": "quantitative","scale":{"domain":[0,10]}},
-          "y": {"field": "Healthy life expectancy","type": "quantitative"}
-        }
-      }, {
-        "transform": [
-          {"filter": {"selection": "brush"}}
-        ],
+    "description": "Two vertically concatenated charts that show a histogram of precipitation in Seattle and the relationship between min and max temperature.",
+    "spacing": 50,
+    "data": {
+      "url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Assignment/Assignment_Data/Score_Life_Freedom.csv"
+    },
+    "hconcat": [
+      {
+        "params": [{
+            "name": "brush",
+            "select": {"type": "interval", "clear": "mouseup"}
+          }],
+
         "mark": "point",
         "encoding": {
           "x": {
-            "field": "Ladder score", "type": "quantitative",
-            "scale": {"domain": [0,10]}
+            "field": "Ladder score",
+            "type": "quantitative",
+            "scale":{"domain":[0,8]}
           },
           "y": {
-            "field": "Freedom to make life choices","type": "quantitative",
-            "scale": {"domain": [0, 1]}
+            "field": "Healthy life expectancy",
+            "type": "quantitative",
+            "scale":{"domain":[0,1.2]}
           }
         }
-      }]
-}
+      },
+      {
+        "transform": [{"filter":{"param": "brush"}}],
+        "mark": "point",
+        "encoding": {
+          "x": {
+            "field": "Ladder score",
+            "type": "quantitative",
+            "scale":{"domain":[0,8]}
+          },
+          "y": {
+            "field": "Freedom to make life choices",
+            "type": "quantitative",
+            "scale":{"domain":[0,1]}
+          }
+        }
+      }
+    ]
+  }
