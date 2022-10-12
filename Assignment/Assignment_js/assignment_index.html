@@ -10,36 +10,67 @@
   
   
 </head>
-<body>
-<div id="title" class="pure-g" style="width: 800;">
+<body style="width:1150px;margin:auto;padding: 50px;padding-top: 10px; ">
+<div id="title" class="pure-g" style="width: 800;background-color:#EBF5EE;">
   <h1 id="Miantitle" class="pure-u-1-1" style="text-align: center;font-size: 80px;font-family: 'Times New Roman', Times, serif;">
     World Hapiness Report
   </h1>
   <h2 id="Intro" class="pure-u-1-1" style="text-align: center;font-size: 25px;margin-bottom: 60px;font-weight: lighter;">
-    Happy People! Where and Why?
+    Happy People! Where to live?
   </h2>
 </div>
 
-<hr>
 
-<div id="main_content" style="width: 800;">
-  <div class="pure-g">
-    <h1 id="First part" class="pure-u-1-1" style="text-align: center;font-size:40px;margin-top: 100px;">
+
+<div id="main_content">
+  <hr style="margin-top: 0;margin-bottom:0;">
+  <div class="pure-g"  style="background-color:#EBF5EE;">
+    <h1 id="First part" class="pure-u-1-1" style="text-align: center;font-size:40px;margin-top: 100px;background-color:#EBF5EE;">
       Where is more happy to live?
     </h1>
   </div>
-  <div class="pure-g">
-    <div id="radial_chart" class="pure-u-1-2"></div>
+  <div class="pure-g" style="background-color:#EBF5EE;">
+    <div id="radial_chart" class="pure-u-1-2" style="margin-top: 60px;"></div>
     <div id="bar_chart" class="pure-u-1-2"></div>
   </div>
-  <div class="pure-g">
+
+  <div class="pure-g" style="background-color:#EBF5EE;">
+    <p class="pure-u-1-1" style="font-size:28px">Among the <span style="font-weight:bolder;">top 25 happiest countries</span> in the world (based on 2020 data), <span style="font-weight:bolder ;">15</span> of them are located at 
+      <span style="color:skyblue;font-size: 35px;font-weight: bolder;">Western Europe</span>, including Denmark, Switzerland, Finland, Norway and so on.It is the <span style="font-weight:bolder ;">happiest region</span> in the world!
+    </p>
+  </div>
+
+  <div class="pure-g" style="background-color:#EBF5EE;">
+    <div id="boxplot" class="pure-u-1-2"></div>
+    <p class="pure-u-1-2" style="font-size:28px;align-self:center;"> The worldwide average happiness score in 2020 is <span style="color:firebrick;font-size: 35px;font-weight: bolder;">5.47</span>, we can see that it is not bad to
+    live in North America and ANZ, Asutralia and New Zealand and the regions that have above-average score.</p>
+  </div>
+  <div class="pure-g" style="background-color:#EBF5EE;">
+    <h1 id="Second part" class="pure-u-1-1" style="text-align: center;font-size:40px;margin-top: 100px;">
+      Happiness Score v.s. CPI 
+    </h1>
     <div id="choropleth_map" class="pure-u-1-2"></div>
     <div id="choropleth_map2" class="pure-u-1-2"></div>
   </div>
-
-  <div class="pure-g" >
-    <div id="bubble_chart" class="pure-u-1-2 "></div>
+  <div class="pure-g" style="background-color:#EBF5EE;">
+    <p class="pure-u-1-1" style="font-size:28px;">Is there relationship between Happiness Score and Preception of Corruption? 
+    The people happier region like <span style="font-weight:bolder ;">Western Europe</span>  has <span style="font-weight:bolder ;">lower CPI</span> whereas the people in <span style="font-weight:bolder ;">Sub-Saharan Africa</span> are <span style="font-weight:bolder ;">more aware of the corruption</span> of their 
+  public sectors.</p>
+  </div>
+  <div class="pure-g" style="background-color:#EBF5EE;">
+    <h1 id="Third part" class="pure-u-1-1" style="text-align: center;font-size:40px;margin-top: 100px;">
+      The Happier The Better? 
+    </h1>
+    <div class="pure-g" style="background-color:#EBF5EE;">
+    <div id="bubble_chart" class="pure-u-1-1"></div>
+  </div>
+  <div class="pure-g" style="background-color:#EBF5EE;">
+    <p class="pure-u-1-1" style="font-size:28px;">There is a observable trend that <span style="font-weight:bolder ;">higher happiness score</span>  would <span style="font-weight:bolder ;">increase</span> the <span style="font-weight:bolder ;">healthy life
+      expectancy</span> . However, it does not means that the people living in happier area would have more freedom to make life choice!</p>
+  </div>
 </div>
+
+
 
 
 <script type="text/javascript">
@@ -49,6 +80,7 @@
   var spec3 = "bar.vg.json";
   var spec4 = "bubble.vg.json";
   var spec5 = "radial.vg.json";
+  var spec6 = "boxplot.vg.json";
 
 
   vegaEmbed('#choropleth_map', spec1).then(function(result) {
@@ -71,7 +103,9 @@
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
+  vegaEmbed('#boxplot', spec6).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
 </script>
-
 </body>
 </html>

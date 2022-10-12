@@ -1,9 +1,11 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "background":"#EBF5EE",
     "title": "Perceptions of Corruption 2020",
     "width": "container",
-    "height": 400,
+    "height": 500,
     "projection": {"type": "equalEarth"},
+    "config": {"legend": {"gradientDirection":"horizontal","orient": "bottom"}},
     "layer":[
 
       {
@@ -33,7 +35,7 @@
                 "url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Assignment/Assignment_Data/2020.csv"
               },
               "key": "Country name",
-              "fields": ["Perceptions of corruption"]
+              "fields": ["Perceptions of corruption","Regional indicator"]
             }
           }
         ],
@@ -46,6 +48,7 @@
           },
           "tooltip": [
             {"field": "properties.NAME", "type": "nominal", "title": "Country name"},
+            {"field":"Regional indicator","type": "nominal","title":"Region"},
             {"field": "Perceptions of corruption", "type": "quantitative"}
           ]
         }

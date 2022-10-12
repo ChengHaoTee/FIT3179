@@ -1,9 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background":"#EBF5EE",
   "title": "World Happiness Score 2020",
   "width": "container",
-  "height": 400,
+  "height": 500,
   "projection": {"type": "equalEarth"},
+  "config": {"legend": {"gradientDirection":"horizontal","orient": "bottom"}},
   "layer":[
 
 
@@ -35,7 +37,7 @@
               "url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Assignment/Assignment_Data/2020.csv"
             },
             "key": "Country name",
-            "fields": ["Ladder score"]
+            "fields": ["Ladder score","Regional indicator"]
           }
         }
       ],
@@ -48,6 +50,7 @@
         },
         "tooltip": [
           {"field": "properties.NAME", "type": "nominal", "title": "Country name"},
+          {"field":"Regional indicator","type": "nominal","title":"Region"},
           {"field": "Ladder score", "type": "quantitative"}
         ]
       }

@@ -1,7 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "Two vertically concatenated charts that show a histogram of precipitation in Seattle and the relationship between min and max temperature.",
-    "spacing": 50,
+    "background":"#EBF5EE",
+    "spacing": 70,
     "data": {
       "url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Assignment/Assignment_Data/Score_Life_Freedom.csv"
     },
@@ -12,33 +13,41 @@
             "select": {"type": "interval", "clear": "mouseup"}
           }],
 
+        "height":400,
+        "width":450,
         "mark": "point",
         "encoding": {
           "x": {
             "field": "Ladder score",
             "type": "quantitative",
-            "scale":{"domain":[0,8]}
+            "scale":{"domain":[0,8]},            
+            "axis":{"domain": false,"grid": false,"ticks": false}
           },
           "y": {
             "field": "Healthy life expectancy",
             "type": "quantitative",
-            "scale":{"domain":[0,1.2]}
+            "scale":{"domain":[0,1.2]},
+            "axis":{"domain": false,"grid": false,"ticks": false}
           }
         }
       },
       {
         "transform": [{"filter":{"param": "brush"}}],
+        "height":400,
+        "width":450,
         "mark": "point",
         "encoding": {
           "x": {
             "field": "Ladder score",
             "type": "quantitative",
-            "scale":{"domain":[0,8]}
+            "scale":{"domain":[0,8]},
+            "axis":{"domain": false,"grid": false,"ticks": false}
           },
           "y": {
             "field": "Freedom to make life choices",
             "type": "quantitative",
-            "scale":{"domain":[0,1]}
+            "scale":{"domain":[0,1]},
+            "axis":{"domain": false,"grid": false,"ticks": false}
           }
         }
       }

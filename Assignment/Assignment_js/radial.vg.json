@@ -1,7 +1,8 @@
 
   {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "A simple radial chart with embedded data.",
+  "title":"Continent of Top 25 Happiest Countries",
+  "background":"#EBF5EE",
   "width":"container",
   "height":350,
   "data": {

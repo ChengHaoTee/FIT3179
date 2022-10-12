@@ -2,8 +2,9 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title":"Top 10 Countries Score",
   "width":"container",
+  "background":"#EBF5EE",
   "data": {"url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Assignment/Assignment_Data/Anual_Score.csv"},
-  "height": {"step": 45},
+  "height": {"step": 42},
   "params": [
     {
     "name": "Selection",

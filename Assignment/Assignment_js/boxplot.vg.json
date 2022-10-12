@@ -2,6 +2,10 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 "data": {"url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Assignment/Assignment_Data/2020.csv"},
+"title":"Happiness Score Satistics of Continent",
+"width":"container",
+"height":400,
+"background":"#EBF5EE",
 "layer":[{
 "mark": {
   "type": "boxplot",
@@ -34,7 +38,7 @@
     "align": "right",
     "baseline": "middle",
     "dx": 2,
-    "dy":100,
+    "dy":180,
     "fontSize": 10,
     "fontWeight":"bold",
     "fontStyle": "italic"
