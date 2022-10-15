@@ -5,7 +5,7 @@
     "width": "container",
     "height": 500,
     "projection": {"type": "equalEarth"},
-    "config": {"legend": {"gradientDirection":"horizontal","orient": "bottom"},"style": {"cell":{"stroke":null}}},
+    "config": {"legend": {"gradientDirection":"horizontal","orient": "bottom"},"style": {"cell":{"stroke":"transparent"}}},
     "layer":[
       {"data": {"sphere": true},
       "mark": {"type": "geoshape", "fill": "#c3e7f8"}

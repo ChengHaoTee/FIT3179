@@ -3,7 +3,7 @@
   "title":"Top 10 Countries Score",
   "width":"container",
   "background":"#EBF5EE",
-  "config": {"style": {"cell":{"stroke":null}}},
+  "config": {"style": {"cell":{"stroke":"transparent"}}},
   "data": {"url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Assignment/Assignment_Data/Anual_Score.csv"},
   "height": {"step": 42},
   "params": [
