@@ -5,6 +5,7 @@
   "background":"#EBF5EE",
   "width":"container",
   "height":350,
+  "config": {"style": {"cell":{"stroke":null}}},
   "data": {
     "url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Assignment/Assignment_Data/Top_25_Score.csv"
   },

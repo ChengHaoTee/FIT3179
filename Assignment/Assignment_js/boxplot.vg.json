@@ -5,6 +5,7 @@
 "title":"Happiness Score Satistics of Regions",
 "width":300,
 "height":400,
+"config": {"style": {"cell":{"stroke":null}}},
 "background":"#EBF5EE",
 "layer":[{
 "mark": {
