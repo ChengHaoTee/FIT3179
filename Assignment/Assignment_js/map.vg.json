@@ -8,8 +8,18 @@
   "config": {"legend": {"gradientDirection":"horizontal","orient": "bottom"}},
   "layer":[
 
+    {"data": {"sphere": true},
+     "mark": {"type": "geoshape", "fill": "#c3e7f8"}
+    }
 
-
+    ,
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Homework/js/mygeodata/ne_110m/ne_110m_graticules_30.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
+      },
+      "mark": {"type": "geoshape", "fill": null, "stroke":"lightgray" }
+    },
     {
       "data": {
         "url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Homework/js/mygeodata/ne_110m/ne_110m_admin_0_countries.topojson",
@@ -51,7 +61,7 @@
         "tooltip": [
           {"field": "properties.NAME", "type": "nominal", "title": "Country name"},
           {"field":"Regional indicator","type": "nominal","title":"Region"},
-          {"field": "Ladder score", "type": "quantitative"}
+          {"field": "Ladder score", "type": "quantitative","format":".2f","title":"Happiness Score"}
         ]
       }
     }

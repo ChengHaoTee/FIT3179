@@ -8,67 +8,71 @@
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@2.1.0/build/pure-min.css" integrity="sha384-yHIFVG6ClnONEA5yB5DJXfW2/KC173DIQrYoZMEtBvGzmf0PKiGyNEqe9N6BNDBH" crossorigin="anonymous">
   
-  
+
 </head>
-<body style="width:1150px;margin:auto;padding: 50px;padding-top: 10px; ">
-<div id="title" class="pure-g" style="width: 800;background-color:#EBF5EE;">
-  <h1 id="Miantitle" class="pure-u-1-1" style="text-align: center;font-size: 80px;font-family: 'Times New Roman', Times, serif;">
-    World Hapiness Report
-  </h1>
-  <h2 id="Intro" class="pure-u-1-1" style="text-align: center;font-size: 25px;margin-bottom: 60px;font-weight: lighter;">
-    Happy People! Where to live?
-  </h2>
-</div>
+<body>
+  <div class="page" style="background-color:#EBF5EE;width:1150px;margin:auto;padding:50px;padding-top:10px;font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif">
+    <div id="title" class="pure-g">
+      <h1 id="Miantitle" class="pure-u-1-1" style="font-family: 'Times New Roman', Times, serif;text-align: center;font-size: 60px;margin-bottom:10px;">
+        World Happiness Report
+      </h1>
+      <h2 id="Intro" class="pure-u-1-1" style="text-align: center;font-size: 25px;margin-bottom: 40px;font-weight: lighter;">
+        Happy People! Where to live?
+      </h2>
+    </div>
 
+    <hr>
 
+    <div id="main_content">
+      <div class="pure-g" >
+        <h2 id="First part" class="pure-u-1-1" style="text-align: center;font-size:40px;margin-top: 50px;">
+          Which Part Of The World Is The Happiest?
+        </h2>
+      </div>
+      <div class="pure-g"  style="display: block;margin-left: auto;margin-right: auto;">
+        <div id="radial_chart" class="pure-u-1-2" style=" margin-top: 60px;margin-bottom: 60px;"></div>
+        <div id="bar_chart" class="pure-u-1-2" style="padding:3px"></div>
+      </div>
 
-<div id="main_content">
-  <hr style="margin-top: 0;margin-bottom:0;">
-  <div class="pure-g"  style="background-color:#EBF5EE;">
-    <h1 id="First part" class="pure-u-1-1" style="text-align: center;font-size:40px;margin-top: 100px;background-color:#EBF5EE;">
-      Where is more happy to live?
-    </h1>
-  </div>
-  <div class="pure-g" style="background-color:#EBF5EE;">
-    <div id="radial_chart" class="pure-u-1-2" style="margin-top: 60px;"></div>
-    <div id="bar_chart" class="pure-u-1-2"></div>
-  </div>
+      <div class="pure-g">
+        <p class="pure-u-1-1" style="font-size:25px">Among the top 25 happiest countries in the world (based on 2020 data), <span style="font-weight:bolder ;">15</span> of them are located at 
+          <span style="color:skyblue;font-size: 25px;font-weight: bolder;">Western Europe</span>. From year 2016 to 2020, majority of the top 10 happiest countries are located in <span style="color:skyblue;font-size: 25px;font-weight: bolder;">Western Europe</span>.
+        </p>
+      </div>
 
-  <div class="pure-g" style="background-color:#EBF5EE;">
-    <p class="pure-u-1-1" style="font-size:28px">Among the <span style="font-weight:bolder;">top 25 happiest countries</span> in the world (based on 2020 data), <span style="font-weight:bolder ;">15</span> of them are located at 
-      <span style="color:skyblue;font-size: 35px;font-weight: bolder;">Western Europe</span>, including Denmark, Switzerland, Finland, Norway and so on.It is the <span style="font-weight:bolder ;">happiest region</span> in the world!
-    </p>
+      <div class="pure-g" style="display: flex;flex-direction: left;margin-top: 10px;">
+        <h2 id="Second second part" class="pure-u-1-1" style="text-align: center;font-size:40px;margin-top: 50px;">
+          Happiness Score Among The Regions
+        </h2>
+        <div id="boxplot" class="pure-u-1-2" style="padding: 3px;"></div>
+        <p class="pure-u-1-2" style="font-size:25px;align-self:center;margin: left 3px;"> The worldwide average happiness score in 2020 is <span style="color:firebrick;font-weight: bolder;">5.47</span>. 
+        <span style="font-weight:bolder ;">Australia and New Zealand</span> has the highest average happiness score, however the country with maximum score is located in <span style="font-weight:bolder ;">Western Europe</span>.</p>
+      </div>
+      <div class="pure-g">
+        <h2 id="Third part" class="pure-u-1-1" style="text-align: center;font-size:40px;margin-top: 50px;">
+          Happiness Score v.s. Corruption Preceptions Index 
+        </h2>
+        <div id="choropleth_map" class="pure-u-1-2"></div>
+        <div id="choropleth_map2" class="pure-u-1-2"></div>
+      </div>
+      <div class="pure-g" >
+        <p class="pure-u-1-1" style="font-size:25px;">Is there relationship between Happiness Score and Preception of Corruption? 
+        The people in happier region like <span style="font-weight:bolder ;">Western Europe</span>  has <span style="font-weight:bolder ;">lower CPI</span> whereas the people in <span style="font-weight:bolder ;">Sub-Saharan Africa</span> are <span style="font-weight:bolder ;">more aware of the corruption</span> of their 
+      public sectors.</p>
+      </div>
+      <div class="pure-g">
+        <h2 id="Forth part" class="pure-u-1-1" style="text-align: center;font-size:40px;margin-top: 50px;">
+          The Happier The Better? 
+        </h2>
+        <div class="pure-g" >
+        <div id="bubble_chart" class="pure-u-1-1"></div>
+      </div>
+      <div class="pure-g" >
+        <p class="pure-u-1-1" style="font-size:25px;">There is observable trend that <span style="font-weight:bolder ;">higher happiness score</span>  would have <span style="font-weight:bolder ;">better</span> <span style="font-weight:bolder ;">healthy life
+          expectancy</span>. However, it does not means that the people living in happier area would have more freedom to make life choice!</p>
+      </div>
+    </div>
   </div>
-
-  <div class="pure-g" style="background-color:#EBF5EE;">
-    <div id="boxplot" class="pure-u-1-2"></div>
-    <p class="pure-u-1-2" style="font-size:28px;align-self:center;"> The worldwide average happiness score in 2020 is <span style="color:firebrick;font-size: 35px;font-weight: bolder;">5.47</span>, we can see that it is not bad to
-    live in North America and ANZ, Asutralia and New Zealand and the regions that have above-average score.</p>
-  </div>
-  <div class="pure-g" style="background-color:#EBF5EE;">
-    <h1 id="Second part" class="pure-u-1-1" style="text-align: center;font-size:40px;margin-top: 100px;">
-      Happiness Score v.s. CPI 
-    </h1>
-    <div id="choropleth_map" class="pure-u-1-2"></div>
-    <div id="choropleth_map2" class="pure-u-1-2"></div>
-  </div>
-  <div class="pure-g" style="background-color:#EBF5EE;">
-    <p class="pure-u-1-1" style="font-size:28px;">Is there relationship between Happiness Score and Preception of Corruption? 
-    The people happier region like <span style="font-weight:bolder ;">Western Europe</span>  has <span style="font-weight:bolder ;">lower CPI</span> whereas the people in <span style="font-weight:bolder ;">Sub-Saharan Africa</span> are <span style="font-weight:bolder ;">more aware of the corruption</span> of their 
-  public sectors.</p>
-  </div>
-  <div class="pure-g" style="background-color:#EBF5EE;">
-    <h1 id="Third part" class="pure-u-1-1" style="text-align: center;font-size:40px;margin-top: 100px;">
-      The Happier The Better? 
-    </h1>
-    <div class="pure-g" style="background-color:#EBF5EE;">
-    <div id="bubble_chart" class="pure-u-1-1"></div>
-  </div>
-  <div class="pure-g" style="background-color:#EBF5EE;">
-    <p class="pure-u-1-1" style="font-size:28px;">There is a observable trend that <span style="font-weight:bolder ;">higher happiness score</span>  would have <span style="font-weight:bolder ;">better</span> <span style="font-weight:bolder ;">healthy life
-      expectancy</span> . However, it does not means that the people living in happier area would have more freedom to make life choice!</p>
-  </div>
-</div>
 
 
 

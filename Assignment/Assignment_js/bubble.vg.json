@@ -14,12 +14,13 @@
           }],
 
         "height":400,
-        "width":450,
+        "width":480,
         "mark": "point",
         "encoding": {
           "x": {
             "field": "Ladder score",
             "type": "quantitative",
+            "title":"Happiness Score",
             "scale":{"domain":[0,8]},            
             "axis":{"domain": false,"grid": false,"ticks": false}
           },
@@ -34,11 +35,12 @@
       {
         "transform": [{"filter":{"param": "brush"}}],
         "height":400,
-        "width":450,
+        "width":480,
         "mark": "point",
         "encoding": {
           "x": {
             "field": "Ladder score",
+            "title":"Happiness Score",
             "type": "quantitative",
             "scale":{"domain":[0,8]},
             "axis":{"domain": false,"grid": false,"ticks": false}

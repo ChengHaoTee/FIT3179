@@ -2,8 +2,8 @@
 {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 "data": {"url": "https://raw.githubusercontent.com/ChengHaoTee/FIT3179/main/Assignment/Assignment_Data/2020.csv"},
-"title":"Happiness Score Satistics of Continent",
-"width":"container",
+"title":"Happiness Score Satistics of Regions",
+"width":300,
 "height":400,
 "background":"#EBF5EE",
 "layer":[{
@@ -13,10 +13,11 @@
 },
 "encoding": {
 
-  "y": {"field": "Regional indicator", "type": "nominal"},
+  "y": {"field": "Regional indicator", "type": "nominal","title":"Region"},
   "x": {
     "axis": {"domain": false, "grid": false, "ticks": false},
     "field": "Ladder score",
+    "title":"Happiness Score",
     "type": "quantitative",
     "scale": {"zero": false}
   }
@@ -27,6 +28,7 @@
       "x": {
         "aggregate": "mean",
         "field": "Ladder score",
+        "title":"Happiness Score",
         "type": "quantitative"
       },
       "color": {"value": "firebrick"},
@@ -45,7 +47,7 @@
     
     },
     "encoding": {
-    "text": {"field": "Ladder score", "type": "quantitative","aggregate":"mean","format": ".2f"},
+    "text": {"field": "Ladder score", "type": "quantitative","aggregate":"mean","format": ".2f","title":"Happiness Score"},
     "color": {"value": "firebrick"}
   }
 }

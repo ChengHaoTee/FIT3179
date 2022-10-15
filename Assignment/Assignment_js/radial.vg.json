@@ -20,6 +20,6 @@
     "theta": {"field": "Regional indicator", "type": "quantitative", "aggregate":"count","stack": true},
     "radius": {"field": "Regional indicator", "aggregate":"count", "scale": {"type": "sqrt", "zero": true, "rangeMin": 20}},
     "color": {"field": "Regional indicator", "type": "nominal","title":"Region","scale":{"domain":["Central and Eastern Europe","East Asia","Latin America and Caribbean","Middle East and North Africa","North America and ANZ", "Western Europe","Australia and New Zealand"],"range":["Slategrey","Black","Pink","Purple","Orange","Skyblue","Green"]}},
-    "tooltip":[{"field":"Regional indicator","type":"nominal" },{"field":"Regional indicator","type":"quantitative","aggregate":"count" }]
+    "tooltip":[{"field":"Regional indicator","type":"nominal","title":"Region" },{"field":"Regional indicator","type":"quantitative","aggregate":"count","title":"Count of Countries" },{"field":"Regional indicator","type":"quantitative","title":"Count of Countries"}]
   }
 }
